@@ -1,6 +1,6 @@
 English | [简体中文](./README-zh_CN.md) | [Homepage](https://framework.tds.qq.com/)
-# ThirdParty
-The ThirdParty repository is a directory that catalogs all libraries compatible with KuiklyUI.
+# KuiklyUI-third-party
+The KuiklyUI-third-party repository is a directory that catalogs all libraries compatible with KuiklyUI.
 
 ### How to Update an Existing Library
 - Locate the library's entry in the file: [KuiklyUI-Libraries.json](https://github.com/Tencent-TDS/ThirdParty/blob/main/KuiklyUI-Libraries.json)
