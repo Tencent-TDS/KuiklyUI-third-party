@@ -20,9 +20,9 @@ Please follow the format, field order, and indentation as shown below. Omit fiel
   "githubUrl": "<GITHUB REPOSITORY URL>", 
   "examples": [
     "<THE Android Demo TO REPO>", 
-    "<THE iOS Demo TO A SNACK>", 
-    "<THE Ohos Demo TO A SNACK>", 
-    "<THE Js Demo TO A SNACK>"
+    "<THE iOS Demo TO REPO>", 
+    "<THE Ohos Demo TO REPO>", 
+    "<THE Js Demo TO A REPO>"
   ], 
   "componentName": "<Your Component Name>", 
   "componentType": "<KMP|KuiklyView|KuiklyModule|Tools>", 
