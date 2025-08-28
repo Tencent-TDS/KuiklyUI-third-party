@@ -9,7 +9,7 @@ The ThirdParty repository is a directory that catalogs all libraries compatible 
 
 ## How to Add a New Library
 - Add it to the end of the [KuiklyUI-Libraries.json](https://github.com/Tencent-TDS/ThirdParty/blob/main/KuiklyUI-Libraries.json) file
-- Refer to the [库信息描述模板](#新库的描述模板) to describe the library's relevant information
+- Refer to the [Library Description Template](#library-description-template) to describe the library's relevant information
 - Submit a PR
 
 ### Library Description Template
