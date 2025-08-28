@@ -1,0 +1,89 @@
+[
+  {
+    "githubUrl": "https://github.com/Tencent-TDS/KuiklyBase-components/tree/master/NetworkKMM",
+    "examples": [
+      "https://github.com/Tencent-TDS/KuiklyBase-components/tree/master/NetworkKMM/androidApp",
+      "https://github.com/Tencent-TDS/KuiklyBase-components/tree/master/NetworkKMM/iosApp",
+      "https://github.com/Tencent-TDS/KuiklyBase-components/tree/master/NetworkKMM/ohosApp"
+    ],
+    "componentName": "NetworkKMM",
+    "componentType": "KMP",
+    "Android": true,
+    "iOS": true,
+    "Ohos": true
+  },
+
+  {
+    "githubUrl": "https://github.com/Tencent-TDS/KuiklyBase-components/tree/master/KmmResource",
+    "examples": [
+      "https://github.com/Tencent-TDS/KuiklyBase-components/tree/master/KmmResource/androidApp",
+      "https://github.com/Tencent-TDS/KuiklyBase-components/tree/master/KmmResource/iosApp",
+      "https://github.com/Tencent-TDS/KuiklyBase-components/tree/master/KmmResource/ohosApp"
+    ],
+    "componentName": "KmmResource",
+    "componentType": "KMP",
+    "Android": true,
+    "iOS": true,
+    "Ohos": true
+  },
+
+  {
+    "githubUrl": "https://github.com/Tencent-TDS/KuiklyBase-components/tree/master/knoi",
+    "examples": [
+      "https://github.com/Tencent-TDS/KuiklyBase-components/tree/master/knoi/ohosApp"
+    ],
+    "componentName": "knoi",
+    "componentType": "Tools",
+    "Ohos": true
+  },
+  {
+    "githubUrl": "<GITHUB REPOSITORY URL>",
+    "examples": [
+      "<THE Android Demo TO REPO>",
+      "<THE iOS Demo TO A SNACK>",
+      "<THE Ohos Demo TO A SNACK>",
+      "<THE Js Demo TO A SNACK>"
+    ],
+    "componentName": "<Your Component Name>",
+    "componentType": "<KMP|KuiklyView|KuiklyModule|Tools>",
+    "Android": false,
+    "iOS": false,
+    "Ohos": false,
+    "Js": false,
+    "Macos": false,
+    "Linux": false,
+    "Windows": false,
+    "Tvos": false
+  },
+
+  {
+    "githubUrl": "https://github.com/Tencent-TDS/KuiklyBase-platform/blob/main/kotlinx.coroutines/README.md",
+    "examples": [
+    ],
+    "componentName": "kotlinx.coroutines",
+    "componentType": "KMP",
+    "Android": true,
+    "iOS": true,
+    "Ohos": true,
+    "Js": true,
+    "Macos": true,
+    "Linux": true,
+    "Windows": true,
+    "Tvos": true
+  },
+  {
+    "githubUrl": "https://github.com/Tencent-TDS/KuiklyBase-platform/blob/main/kotlinx.atomicfu/README.md",
+    "examples": [
+    ],
+    "componentName": "kotlinx.atomicfu",
+    "componentType": "KMP",
+    "Android": true,
+    "iOS": true,
+    "Ohos": true,
+    "Js": true,
+    "Macos": true,
+    "Linux": true,
+    "Windows": true,
+    "Tvos": true
+  }
+]
