@@ -1,18 +1,20 @@
+English | [简体中文](./README-zh_CN.md) | [Homepage](https://framework.tds.qq.com/)
 # ThirdParty
-ThirdParty仓库是收录所有与 KuiklyUI 兼容的库的目录
+The ThirdParty repository is a directory that catalogs all libraries compatible with KuiklyUI.
 
-### 如何更新一个新库
-- 在文件中查找该库的入口条目 [KuiklyUI-Libraries.json](https://github.com/Tencent-TDS/ThirdParty/blob/main/KuiklyUI-Libraries.json)
-- 使用新数据更新该条目描述信息
-- 提交 PR。
+### How to Update an Existing Library
+- Locate the library's entry in the file: [KuiklyUI-Libraries.json](https://github.com/Tencent-TDS/ThirdParty/blob/main/KuiklyUI-Libraries.json)
+- Update the entry with new information
+- Submit a PR
 
-## 如何添加一个新库
-- 将其添加在 [KuiklyUI-Libraries.json](https://github.com/Tencent-TDS/ThirdParty/blob/main/KuiklyUI-Libraries.json)文件末尾
-- 参考[库信息描述模板](#新库的描述模板)，描述该库的相关信息
-- 提交 PR
+## How to Add a New Library
+- Add it to the end of the [KuiklyUI-Libraries.json](https://github.com/Tencent-TDS/ThirdParty/blob/main/KuiklyUI-Libraries.json) file
+- Refer to the [库信息描述模板](#新库的描述模板) to describe the library's relevant information
+- Submit a PR
 
-### 新库的描述模板
-请遵循如下格式、字段顺序和缩进规范，跳过所有不支持平台的字段。
+### Library Description Template
+Please follow the format, field order, and indentation as shown below. Omit fields for unsupported platforms.
+
 ```json
 {
   "githubUrl": "<GITHUB REPOSITORY URL>", 
@@ -35,32 +37,32 @@ ThirdParty仓库是收录所有与 KuiklyUI 兼容的库的目录
 }
 ```
 
-### 模板字段描述
-#### 通用字段
+### Template Field Descriptions
+#### General Fields
 - `githubUrl`
-  **(string)** - 该软件包的 GitHub 仓库 URL
+  **(string)** - The GitHub repository URL of the package
 - `examples`
-  **(string)** - 该库用法的示例项目 URL。对支持的平台填写其示例URL，对于不支持的平台，需删除描述。
+  **(string)** - URLs to example projects demonstrating the library's usage. Provide URLs for supported platforms and remove entries for unsupported platforms.
 - `componentType`
-  **(string)** - 该库的类型。KMP:标准KMP组件；KuiklyView: Kuikly扩展View；KuiklyModule：Kuikly扩展Module。
+  **(string)** - The type of library. KMP: Standard KMP component; KuiklyView: Kuikly extended View; KuiklyModule: Kuikly extended Module.
 
-#### 支持平台字段
+#### Supported Platform Fields
 - `Android`
-  **(boolean)** - 该库支持在 Android 平台运行
+  **(boolean)** - The library supports running on the Android platform
 - `iOS`
-  **(boolean)** - 该库支持在 iOS 平台运行
+  **(boolean)** - The library supports running on the iOS platform
 - `Ohos`
-  **(boolean)** - 该库支持在 Ohos 平台运行
+  **(boolean)** - The library supports running on the Ohos platform
 - `Js`
-  **(boolean)** - 该库支持在 H5 /小程序平台运行
+  **(boolean)** - The library supports running on H5/mini-program platforms
 - `Macos`
-  **(boolean)** - 该库支持在 Macos 平台运行
+  **(boolean)** - The library supports running on the Macos platform
 - `Linux`
-  **(boolean)** - 该库支持在 Linux 平台运行
+  **(boolean)** - The library supports running on the Linux platform
 - `Windows`
-  **(boolean)** - 该库支持在 Windows 平台运行
+  **(boolean)** - The library supports running on the Windows platform
 - `Tvos`
-  **(boolean)** - 该库支持在 Tvos 平台运行
+  **(boolean)** - The library supports running on the Tvos platform
 
 
 
