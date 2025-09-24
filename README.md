@@ -24,8 +24,10 @@ Please follow the format, field order, and indentation as shown below. Omit fiel
     "<THE Ohos Demo TO REPO>", 
     "<THE Js Demo TO A REPO>"
   ], 
-  "componentName": "<Your Component Name>", 
-  "componentType": "<KMP|KuiklyView|KuiklyModule|Tools>", 
+  "componentName": "<Your Component Name>",
+  "componentDescription": "<Your Component Description>",
+  "componentType": "<KMP|KuiklyView|KuiklyModule|Tools>",
+  "developer": "<Developer of this Component>",
   "Android": false, 
   "iOS": false, 
   "Ohos": false, 
@@ -40,29 +42,33 @@ Please follow the format, field order, and indentation as shown below. Omit fiel
 ### Template Field Descriptions
 #### General Fields
 - `githubUrl`
-  **(string)** - The GitHub repository URL of the package
+  **(string)** - The GitHub repository URL of the package.
 - `examples`
   **(string)** - URLs to example projects demonstrating the library's usage. Provide URLs for supported platforms and remove entries for unsupported platforms.
+- `componentDescription`
+  **(string)** - The short description of this repository.
+- `developer`
+  **(string)** - The developer of this Component.
 - `componentType`
   **(string)** - The type of library. KMP: Standard KMP component; KuiklyView: Kuikly extended View; KuiklyModule: Kuikly extended Module.
 
 #### Supported Platform Fields
 - `Android`
-  **(boolean)** - The library supports running on the Android platform
+  **(boolean)** - The library supports running on the Android platform.
 - `iOS`
-  **(boolean)** - The library supports running on the iOS platform
+  **(boolean)** - The library supports running on the iOS platform.
 - `Ohos`
-  **(boolean)** - The library supports running on the Ohos platform
+  **(boolean)** - The library supports running on the Ohos platform.
 - `Js`
-  **(boolean)** - The library supports running on H5/mini-program platforms
+  **(boolean)** - The library supports running on H5/mini-program platforms.
 - `Macos`
-  **(boolean)** - The library supports running on the Macos platform
+  **(boolean)** - The library supports running on the Macos platform.
 - `Linux`
-  **(boolean)** - The library supports running on the Linux platform
+  **(boolean)** - The library supports running on the Linux platform.
 - `Windows`
-  **(boolean)** - The library supports running on the Windows platform
+  **(boolean)** - The library supports running on the Windows platform.
 - `Tvos`
-  **(boolean)** - The library supports running on the Tvos platform
+  **(boolean)** - The library supports running on the Tvos platform.
 
 
 

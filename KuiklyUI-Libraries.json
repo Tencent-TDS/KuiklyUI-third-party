@@ -7,7 +7,9 @@
       "https://github.com/Tencent-TDS/KuiklyBase-components/tree/master/NetworkKMM/ohosApp"
     ],
     "componentName": "NetworkKMM",
+    "componentDescription": "This project is based on Kotlin Multiplatform technology and provides a cross-platform network request (http get/post, etc.) solution, supporting Android, iOS, and HarmonyOS mobile platforms.",
     "componentType": "KMP",
+    "developer": "KuiklyBase",
     "Android": true,
     "iOS": true,
     "Ohos": true
@@ -21,7 +23,9 @@
       "https://github.com/Tencent-TDS/KuiklyBase-components/tree/master/KmmResource/ohosApp"
     ],
     "componentName": "KmmResource",
+    "componentDescription": "KMM Multiplatform Resource Management Solution",
     "componentType": "KMP",
+    "developer": "KuiklyBase",
     "Android": true,
     "iOS": true,
     "Ohos": true
@@ -33,35 +37,37 @@
       "https://github.com/Tencent-TDS/KuiklyBase-components/tree/master/knoi/ohosApp"
     ],
     "componentName": "knoi",
+    "componentDescription": "Provides mutual calling capability between Kotlin Native & ArkTS without writing C/C++ bridging code.",
     "componentType": "Tools",
+    "developer": "KuiklyBase",
     "Ohos": true
   },
   {
-    "githubUrl": "<GITHUB REPOSITORY URL>",
+    "githubUrl": "https://github.com/Tencent-TDS/KuiklyBase-platform/tree/main/kotlinx.serialization",
     "examples": [
-      "<THE Android Demo TO REPO>",
-      "<THE iOS Demo TO A SNACK>",
-      "<THE Ohos Demo TO A SNACK>",
-      "<THE Js Demo TO A SNACK>"
     ],
-    "componentName": "<Your Component Name>",
-    "componentType": "<KMP|KuiklyView|KuiklyModule|Tools>",
-    "Android": false,
-    "iOS": false,
-    "Ohos": false,
-    "Js": false,
-    "Macos": false,
-    "Linux": false,
-    "Windows": false,
-    "Tvos": false
+    "componentName": "kotlinx.serialization",
+    "componentDescription": "Kotlinx.serialization that support platform OpenHarmony.",
+    "componentType": "KMP",
+    "developer": "KuiklyBase",
+    "Android": true,
+    "iOS": true,
+    "Ohos": true,
+    "Js": true,
+    "Macos": true,
+    "Linux": true,
+    "Windows": true,
+    "Tvos": true
   },
 
   {
-    "githubUrl": "https://github.com/Tencent-TDS/KuiklyBase-platform/blob/main/kotlinx.coroutines/README.md",
+    "githubUrl": "https://github.com/Tencent-TDS/KuiklyBase-platform/tree/main/kotlinx.coroutines",
     "examples": [
     ],
     "componentName": "kotlinx.coroutines",
+    "componentDescription": "Kotlinx.coroutines that support platform OpenHarmony",
     "componentType": "KMP",
+    "developer": "KuiklyBase",
     "Android": true,
     "iOS": true,
     "Ohos": true,
@@ -72,11 +78,13 @@
     "Tvos": true
   },
   {
-    "githubUrl": "https://github.com/Tencent-TDS/KuiklyBase-platform/blob/main/kotlinx.atomicfu/README.md",
+    "githubUrl": "https://github.com/Tencent-TDS/KuiklyBase-platform/tree/main/kotlinx.atomicfu",
     "examples": [
     ],
     "componentName": "kotlinx.atomicfu",
+    "componentDescription": "Kotlinx.atomicfu that support platform OpenHarmony.",
     "componentType": "KMP",
+    "developer": "KuiklyBase",
     "Android": true,
     "iOS": true,
     "Ohos": true,
