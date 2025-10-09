@@ -1,13 +1,14 @@
 English | [简体中文](./README-zh_CN.md) | [Homepage](https://framework.tds.qq.com/)
 # KuiklyUI-third-party
-The KuiklyUI-third-party repository is a directory that catalogs all libraries compatible with KuiklyUI.
+The KuiklyUI-third-party repository is a directory of all technology sharing and compatible libraries related to KuiklyUI
 
+## KuiklyUI component and tool libraries collection
 ### How to Update an Existing Library
 - Locate the library's entry in the file: [KuiklyUI-Libraries.json](https://github.com/Tencent-TDS/ThirdParty/blob/main/KuiklyUI-Libraries.json)
 - Update the entry with new information
 - Submit a PR
 
-## How to Add a New Library
+### How to Add a New Library
 - Add it to the end of the [KuiklyUI-Libraries.json](https://github.com/Tencent-TDS/ThirdParty/blob/main/KuiklyUI-Libraries.json) file
 - Refer to the [Library Description Template](#library-description-template) to describe the library's relevant information
 - Submit a PR
@@ -71,7 +72,34 @@ Please follow the format, field order, and indentation as shown below. Omit fiel
   **(boolean)** - The library supports running on the Tvos platform.
 
 
+## KuiklyUI technology sharing collection
+### How to add/update a share
+- Add it to the end of the [KuiklyUI-TechSharing.json](https://github.com/Tencent-TDS/ThirdParty/blob/main/KuiklyUI-TechSharing.json) file
+- Refer to the [Library Description Template](#share-description-template) to describe the article's relevant information
+- Submit a PR
 
+### Share Description Template
+Please follow the format, field order, and indentation as shown below. 
+```json
+{
+  "articleUrl": "<Article URL>",
+  "articleTitle": "<Your Article Title>",
+  "appName": "<Your App Name>",
+  "author": "<Developer of This Component>",
+  "date": "<Publication Time of This Article>"
+}
+```
+### Template Field Descriptions
+- `articleUrl`
+  **(string)** - Technology sharing article link.
+- `articleTitle`
+  **(string)** - Title of the technology sharing article.
+- `appName`
+  **(string)** - (Optional) Business name.
+- `author`
+  **(string)** - (Optional) The author of the technology sharing, which can be Github ID.
+- `date`
+  **(string)** - Technology sharing publication time.
 
 
 

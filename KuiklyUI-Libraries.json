@@ -93,5 +93,40 @@
     "Linux": true,
     "Windows": true,
     "Tvos": true
+  },
+  {
+    "githubUrl": "https://github.com/Tencent-TDS/KuiklyBase-platform/tree/main/kotlinx.datetime",
+    "examples": [
+    ],
+    "componentName": "kotlinx.datetime",
+    "componentDescription": "kotlinx.datetime version 0.6.0-RC.2 to support platform OpenHarmony.",
+    "componentType": "KMP",
+    "developer": "KuiklyBase",
+    "Android": true,
+    "iOS": true,
+    "Ohos": true,
+    "Js": true,
+    "Macos": true,
+    "Linux": true,
+    "Windows": true,
+    "Tvos": true
+  },
+  {
+    "githubUrl": "https://github.com/trhyl/kotlinx.serialization",
+    "examples": [
+    ],
+    "componentName": "kotlinx.serialization",
+    "componentDescription": "基于Kuikly的鸿蒙平台的Serialization能力",
+    "componentType": "KMP",
+    "developer": "trhyl",
+    "Android": true,
+    "iOS": true,
+    "Ohos": true,
+    "Js": false,
+    "Macos": false,
+    "Linux": false,
+    "Windows": false,
+    "Tvos": false
   }
+
 ]
