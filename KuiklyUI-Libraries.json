@@ -127,6 +127,23 @@
     "Linux": false,
     "Windows": false,
     "Tvos": false
+  },
+  {
+    "githubUrl": "https://github.com/trhyl/kuikly_easyui",
+    "examples": [
+    ],
+    "componentName": "eayui",
+    "componentDescription": "Kuikly DSL UI框架",
+    "componentType": "KMP",
+    "developer": "trhyl",
+    "Android": true,
+    "iOS": true,
+    "Ohos": true,
+    "Js": false,
+    "Macos": false,
+    "Linux": false,
+    "Windows": false,
+    "Tvos": false
   }
 
 ]
