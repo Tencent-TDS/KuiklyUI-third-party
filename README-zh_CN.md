@@ -73,7 +73,7 @@ KuiklyUI-third-party 仓库是收录所有与 KuiklyUI 相关的技术分享和 
 
 ## KuiklyUI 技术分享收集
 ### 如何增加/更新一个分享
-- 在文件中查找该库的入口条目：[KuiklyUI-Libraries.json](https://github.com/Tencent-TDS/ThirdParty/blob/main/KuiklyUI-TechSharing.json)
+- 在文件中查找该库的入口条目：[KuiklyUI-TechSharing.json](https://github.com/Tencent-TDS/ThirdParty/blob/main/KuiklyUI-TechSharing.json)
 - 使用新数据更新该条目描述信息
 - 提交 PR。
 
