@@ -144,6 +144,19 @@
     "Linux": false,
     "Windows": false,
     "Tvos": false
+  },
+
+  {
+    "githubUrl": "https://github.com/susirsusir/kuiklyMultiModuleDemo",
+    "examples": [
+    ],
+    "componentName": "kuiklyMultiModuleDemo",
+    "componentDescription": "基于 Kuikly 框架的跨平台多模块架构演示项目，实现了业务模块间的低耦合通信，支持跨模块服务注册与调用。",
+    "componentType": "KMP",
+    "developer": "susirsusir",
+    "Android": true,
+    "iOS": true,
+    "Ohos": true
   }
 
 ]
