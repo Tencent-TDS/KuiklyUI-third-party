@@ -76,5 +76,12 @@
   "appName": "Jump",
   "author": "六六",
   "date": "2025.10.24"
+},
+{
+  "articleUrl": "https://github.com/trhyl/kuikly_easyui/blob/main/doc/usage_feedback.md",
+  "articleTitle": "使用 Kuikly（DSL）开源 UI 框架搭建个人应用的实践与思考",
+  "appName": "个人开发者",
+  "author": "trhyl",
+  "date": "2025.11.24"
 }
 ]
