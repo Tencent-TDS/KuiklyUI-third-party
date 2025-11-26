@@ -252,5 +252,37 @@
     "Android": true,
     "iOS": true,
     "Ohos": true
+  },
+
+    {
+    "githubUrl": "https://github.com/walkman707/KuiklyMMKV",
+    "examples": [
+      "https://github.com/walkman707/KuiklyMMKV/tree/main/androidApp",
+      "https://github.com/walkman707/KuiklyMMKV/tree/main/iosApp",
+      "https://github.com/walkman707/KuiklyMMKV/tree/main/ohosApp"
+    ],
+    "componentName": "mmkvKotlin",
+    "componentDescription": "mmkvKotlin是基于 Kotlin MultiPlatform 技术，对 腾讯开源组件 MMKV 的跨端封装，适用于基于 KMP 平台的跨端工程。",
+    "componentType": "KMP",
+    "developer": "walkman707",
+    "Android": true,
+    "iOS": true,
+    "Ohos": true
+  },
+
+  {
+    "githubUrl": "https://github.com/walkman707/KuiklyLottie",
+    "examples": [
+      "https://github.com/walkman707/KuiklyLottie/tree/main/androidApp",
+      "https://github.com/walkman707/KuiklyLottie/tree/main/iosApp",
+      "https://github.com/walkman707/KuiklyLottie/tree/main/ohosApp"
+    ],
+    "componentName": "KuiklyLottie",
+    "componentDescription": "KuiklyLottie是基于 Kuikly 扩展原生View 对 airbnb 的开源组件 lottie 的跨端封装，适用于Kuikly工程中使用",
+    "componentType": "KMP",
+    "developer": "walkman707",
+    "Android": true,
+    "iOS": true,
+    "Ohos": true
   }
 ]
