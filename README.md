@@ -70,7 +70,12 @@ Please follow the format, field order, and indentation as shown below. Omit fiel
   **(boolean)** - The library supports running on the Windows platform.
 - `Tvos`
   **(boolean)** - The library supports running on the Tvos platform.
-
+#### Supported Dynamic Feature Fields
+- `sDynamic`
+  **(boolean)** - Does the library support direct referencing in dynamic mode? It can be determined from the following three aspects:
+  - Supports JavaScript target outputs
+  - Does not rely on browser platform interfaces
+  - Does not rely on coroutines, or the runtime logic does not involve multithreading
 
 ## KuiklyUI technology sharing collection
 ### How to add/update a share
