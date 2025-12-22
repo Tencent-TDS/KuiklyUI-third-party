@@ -367,5 +367,16 @@
     "iOS": true,
     "Ohos": true,
     "sDynamic": false
+  },
+  {
+    "githubUrl": "https://github.com/blackbbc/sqldelight/tree/2.1.0-ohos",
+    "componentName": "sqldelight",
+    "componentDescription": "SQLDelight",
+    "componentType": "KMP",
+    "developer": "blackbbc",
+    "Android": true,
+    "iOS": true,
+    "Ohos": true,
+    "sDynamic": false
   }
 ]
