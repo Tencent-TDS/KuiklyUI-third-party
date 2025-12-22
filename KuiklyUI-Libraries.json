@@ -301,5 +301,71 @@
     "iOS": true,
     "Ohos": true,
     "sDynamic": false
+  },
+  {
+    "githubUrl": "https://github.com/blackbbc/okio/tree/3.9.1-ohos",
+    "componentName": "okio",
+    "componentDescription": "Okio",
+    "componentType": "KMP",
+    "developer": "blackbbc",
+    "Android": true,
+    "iOS": true,
+    "Ohos": true,
+    "sDynamic": false
+  },
+  {
+    "githubUrl": "https://github.com/blackbbc/koin/tree/4.0.4-ohos",
+    "componentName": "koin",
+    "componentDescription": "Koin",
+    "componentType": "KMP",
+    "developer": "blackbbc",
+    "Android": true,
+    "iOS": true,
+    "Ohos": true,
+    "sDynamic": false
+  },
+    {
+    "githubUrl": "https://github.com/blackbbc/voyager/tree/1.1.0-beta03-ohos",
+    "componentName": "voyager",
+    "componentDescription": "Voyager",
+    "componentType": "KMP",
+    "developer": "blackbbc",
+    "Android": true,
+    "iOS": true,
+    "Ohos": true,
+    "sDynamic": false
+  },
+  {
+    "githubUrl": "https://github.com/blackbbc/ktor/tree/3.0.3-ohos",
+    "componentName": "ktor",
+    "componentDescription": "Ktor",
+    "componentType": "KMP",
+    "developer": "blackbbc",
+    "Android": true,
+    "iOS": true,
+    "Ohos": true,
+    "sDynamic": false
+  },
+  {
+    "githubUrl": "https://github.com/blackbbc/Ktorfit/tree/ohos-2.2.0",
+    "componentName": "ktorfit",
+    "componentDescription": "Ktorfit",
+    "componentType": "KMP",
+    "developer": "blackbbc",
+    "Android": true,
+    "iOS": true,
+    "Ohos": true,
+    "sDynamic": false
+  },
+  {
+    "githubUrl": "https://github.com/blackbbc/coil/tree/3.0.4-ohos",
+    "componentName": "coil",
+    "componentDescription": "Coil",
+    "componentType": "KMP",
+    "developer": "blackbbc",
+    "Android": true,
+    "iOS": true,
+    "Ohos": true,
+    "sDynamic": false
   }
 ]
