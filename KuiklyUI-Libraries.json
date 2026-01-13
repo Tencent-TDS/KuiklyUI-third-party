@@ -378,5 +378,16 @@
     "iOS": true,
     "Ohos": true,
     "sDynamic": false
+  },
+  {
+    "githubUrl": "https://github.com/TinyScripts1/AnnouncementView.kt",
+    "componentName": "AnnouncementView",
+    "componentDescription": "AnnouncementView kuikly跑马灯组件",
+    "componentType": "KMP",
+    "developer": "wego",
+    "Android": true,
+    "iOS": true,
+    "Ohos": true,
+    "sDynamic": false
   }
 ]
