@@ -380,6 +380,24 @@
     "sDynamic": false
   },
   {
+    "githubUrl": "https://github.com/HD-L/KuiklyUISqlite",
+    "examples": [
+      "https://github.com/HD-L/KuiklyUISqlite"
+    ],
+    "componentName": "KuiklySqlite",
+    "componentDescription": "KuiklySqlite 是一个轻量级、高性能的 Kotlin Multiplatform (KMP) ORM 框架，专为kuiklyUI框架设计。目前支持 Android 和 iOS 和 HarmonyOS 。 该框架以性能和响应式为核心构建，提供类型安全的 API、基于 KSP 的编译时 DAO 生成以及无缝的协程集成。",
+    "componentType": "KMP",
+    "developer": "dev_lhd",
+    "Android": true,
+    "iOS": true,
+    "Ohos": true,
+    "Js": false,
+    "Macos": false,
+    "Linux": false,
+    "Windows": false,
+    "Tvos": false
+  },
+  {
     "githubUrl": "https://github.com/TinyScripts1/AnnouncementView.kt",
     "componentName": "AnnouncementView",
     "componentDescription": "AnnouncementView kuikly跑马灯组件",
