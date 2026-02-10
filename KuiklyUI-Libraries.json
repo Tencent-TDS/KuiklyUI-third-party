@@ -407,5 +407,23 @@
     "iOS": true,
     "Ohos": true,
     "sDynamic": false
+  },
+  {
+    "githubUrl": "https://github.com/wwwcg/KuiklyWidgetGrid",
+    "examples": [
+      "https://github.com/wwwcg/KuiklyWidgetGrid/tree/main/androidApp",
+      "https://github.com/wwwcg/KuiklyWidgetGrid/tree/main/iosApp",
+      "https://github.com/wwwcg/KuiklyWidgetGrid/tree/main/ohosApp"
+    ],
+    "componentName": "KuiklyWidgetGrid",
+    "componentDescription": "A drag-and-sort widget grid component for KuiklyUI, similar to iPhone's negative one screen. Supports 1×1 / 2×1 multi-size cards, drag reordering with push animation, edit mode with shake effect, and fully customizable card content.",
+    "componentType": "KMP",
+    "developer": "wwwcg",
+    "Android": true,
+    "iOS": true,
+    "Ohos": true,
+    "Js": true,
+    "Macos": true,
+    "sDynamic": true
   }
 ]
