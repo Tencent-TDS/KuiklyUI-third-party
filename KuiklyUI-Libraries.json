@@ -425,5 +425,16 @@
     "Js": true,
     "Macos": true,
     "sDynamic": true
+  },
+  {
+    "githubUrl": "https://github.com/ailuoku6/kisstate-kuikly",
+    "componentName": "KisstateKuikly",
+    "componentDescription": "kisstateKuikly 是一个在kuikly侧实现computed、watch的状态管理库，实现了类似React的useMemo，useEffect的api，方便状态派生和副作用监听，对前端开发者友好",
+    "componentType": "KMP",
+    "developer": "ailuoku6",
+    "Android": true,
+    "iOS": true,
+    "Js": true,
+    "sDynamic": false
   }
 ]
