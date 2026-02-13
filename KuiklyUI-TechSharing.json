@@ -6,7 +6,6 @@
     "author": "Kuikly Team",
     "date": "2025.04.29"
   },
-
   {
     "articleUrl": "https://mp.weixin.qq.com/s/KsEqVO_Zh73xSlUWOrvZrQ",
     "articleTitle": "腾讯Kuikly框架鸿蒙版正式开源 —— 揭秘卓越性能适配之旅",
@@ -14,7 +13,6 @@
     "author": "Kuikly Team",
     "date": "2025.06.03"
   },
-
   {
     "articleUrl": "https://mp.weixin.qq.com/s/joIAZr8_28UnR7XhPGZ62Q",
     "articleTitle": "适配鸿蒙操作系统！！腾讯游戏直播SDK基于Kuikly三端一码开发实践",
@@ -22,7 +20,6 @@
     "author": "Kuikly Team",
     "date": "2025.07.28"
   },
-
   {
     "articleUrl": "https://mp.weixin.qq.com/s/Ylo97APs2LhorlB7hTNwUw",
     "articleTitle": "腾讯Kuikly框架进一步开源，新增支持Web，开启一码五端新体验！",
@@ -30,7 +27,6 @@
     "author": "Kuikly Team",
     "date": "2025.08.20"
   },
-
   {
     "articleUrl": "https://mp.weixin.qq.com/s/joIAZr8_28UnR7XhPGZ62Q",
     "articleTitle": "适配鸿蒙操作系统！！腾讯游戏直播SDK基于Kuikly三端一码开发实践",
@@ -38,7 +34,6 @@
     "author": "Kuikly Team",
     "date": "2025.07.28"
   },
-
   {
     "articleUrl": "https://mp.weixin.qq.com/s/g_S9QDyyUDBXH3mhVDGJqQ",
     "articleTitle": "腾讯开源框架 Kuikly 再升级！率先适配 “液态玻璃”，原生体验更极致",
@@ -46,7 +41,6 @@
     "author": "Kuikly Team",
     "date": "2025.09.16"
   },
-
   {
     "articleUrl": "https://blog.csdn.net/qq_29160707/article/details/150401448",
     "articleTitle": "Kuikly富文本如何实现嵌入View",
@@ -54,7 +48,6 @@
     "author": "qq_29160707",
     "date": "2025.08.14"
   },
-
   {
     "articleUrl": "https://juejin.cn/post/7543547411983400994",
     "articleTitle": "七夕到了，我让AI用Kuikly写了个“孤寡青蛙“App，一码五端真丝滑！",
@@ -62,7 +55,6 @@
     "author": "在下历飞雨",
     "date": "2025.08.29"
   },
-
   {
     "articleUrl": "https://juejin.cn/post/7543976401176526891",
     "articleTitle": "为啥选了Kuikly？2025“液态玻璃时代“六大跨端框架横向对比",
@@ -70,7 +62,6 @@
     "author": "在下历飞雨",
     "date": "2025.08.31"
   },
-
   {
     "articleUrl": "https://juejin.cn/post/7559514797674250294",
     "articleTitle": "从0使用Kuikly框架写一个小红书Demo-Day1\n",
@@ -78,7 +69,6 @@
     "author": "我有与与症",
     "date": "2025.10.11"
   },
-
   {
     "articleUrl": "https://mp.weixin.qq.com/s/Mn-_MKKVMEIci14Y46RqOA",
     "articleTitle": "HelloTalk使用Kuikly的历程和心得",
@@ -86,25 +76,46 @@
     "author": "Wind",
     "date": "2025.10.17"
   },
-{
-  "articleUrl": "https://juejin.cn/post/7563220648828256282",
-  "articleTitle": "Kuikly跨端模式接入资源管理",
-  "appName": "Jump",
-  "author": "六六",
-  "date": "2025.10.24"
-},
-{
-  "articleUrl": "https://github.com/trhyl/kuikly_easyui/blob/main/doc/usage_feedback.md",
-  "articleTitle": "使用 Kuikly（DSL）开源 UI 框架搭建个人应用的实践与思考",
-  "appName": "个人开发者",
-  "author": "trhyl",
-  "date": "2025.11.24"
-}	,
+  {
+    "articleUrl": "https://juejin.cn/post/7563220648828256282",
+    "articleTitle": "Kuikly跨端模式接入资源管理",
+    "appName": "Jump",
+    "author": "六六",
+    "date": "2025.10.24"
+  },
+  {
+    "articleUrl": "https://github.com/trhyl/kuikly_easyui/blob/main/doc/usage_feedback.md",
+    "articleTitle": "使用 Kuikly（DSL）开源 UI 框架搭建个人应用的实践与思考",
+    "appName": "个人开发者",
+    "author": "trhyl",
+    "date": "2025.11.24"
+  },
   {
     "articleUrl": "https://zhuanlan.zhihu.com/p/1982163329888846119",
     "articleTitle": "腾讯Kuikly跨平台调研以及使用",
     "appName": "西昊智能",
     "author": "百世经纶一页瓜",
     "date": "2025.12.10"
+  },
+  {
+    "articleUrl": "https://blog.csdn.net/weixin_47308626/article/details/157394756?spm=1011.2415.3001.5331",
+    "articleTitle": "鸿蒙应用自动化资源同步：Kuikly框架资源复制解决方案",
+    "appName": "语悦",
+    "author": "芒鸽",
+    "date": "2026.01.26"
+  },
+  {
+    "articleUrl": "https://blog.csdn.net/weixin_47308626/article/details/155226618?spm=1001.2014.3001.5502",
+    "articleTitle": "实战教程：使用 Kuikly Compose 实现鸿蒙“碰一碰“（NFC）功能",
+    "appName": "语悦",
+    "author": "芒鸽",
+    "date": "2025.11.25"
+  },
+  {
+    "articleUrl": "https://blog.csdn.net/weixin_47308626/article/details/155188715?spm=1001.2014.3001.5502",
+    "articleTitle": "【跨端开发新范式】Kuikly Compose vs. Jetpack Compose：一套代码实现真正的全平台原生渲染",
+    "appName": "语悦",
+    "author": "芒鸽",
+    "date": "2025.11.25"
   }
 ]

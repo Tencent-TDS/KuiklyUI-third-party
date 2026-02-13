@@ -409,6 +409,24 @@
     "sDynamic": false
   },
   {
+    "githubUrl": "https://github.com/wwwcg/KuiklyWidgetGrid",
+    "examples": [
+      "https://github.com/wwwcg/KuiklyWidgetGrid/tree/main/androidApp",
+      "https://github.com/wwwcg/KuiklyWidgetGrid/tree/main/iosApp",
+      "https://github.com/wwwcg/KuiklyWidgetGrid/tree/main/ohosApp"
+    ],
+    "componentName": "KuiklyWidgetGrid",
+    "componentDescription": "A drag-and-sort widget grid component for KuiklyUI, similar to iPhone's negative one screen. Supports 1×1 / 2×1 multi-size cards, drag reordering with push animation, edit mode with shake effect, and fully customizable card content.",
+    "componentType": "KMP",
+    "developer": "wwwcg",
+    "Android": true,
+    "iOS": true,
+    "Ohos": true,
+    "Js": true,
+    "Macos": true,
+    "sDynamic": true
+  },
+  {
     "githubUrl": "https://github.com/ailuoku6/kisstate-kuikly",
     "componentName": "KisstateKuikly",
     "componentDescription": "kisstateKuikly 是一个在kuikly侧实现computed、watch的状态管理库，实现了类似React的useMemo，useEffect的api，方便状态派生和副作用监听，对前端开发者友好",
