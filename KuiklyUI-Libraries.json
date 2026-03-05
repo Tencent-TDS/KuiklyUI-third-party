@@ -497,5 +497,24 @@
     "Linux": false, 
     "Windows": false, 
     "Tvos": false
+  },
+  {
+    "githubUrl": "https://github.com/Kuikly-contrib/kuikly-compose-markdown",
+    "examples": [
+      "https://github.com/Tencent-TDS/KuiklyUI/tree/main/demo/src/commonMain/kotlin/com/tencent/kuikly/demo/pages/compose/chatDemo"
+    ],
+    "componentName": "kuikly-compose-markdown",
+    "componentDescription": "Kuikly Compose DSL 版本的 Markdown 渲染组件，支持标题、加粗、斜体、删除线、引用、表格、有序/无序列表、代码块、行内代码、链接等 Markdown 语法渲染，可自定义颜色与排版样式，适用于 AI 对话等场景。",
+    "componentType": "KMP",
+    "developer": "KuiklyBase",
+    "Android": true,
+    "iOS": true,
+    "Ohos": true,
+    "Js": true,
+    "Macos": true,
+    "Linux": false,
+    "Windows": false,
+    "Tvos": false,
+    "sDynamic": false
   }
 ]
