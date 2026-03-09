@@ -269,7 +269,7 @@
     "sDynamic": false
   },
 
-    {
+  {
     "githubUrl": "https://github.com/walkman707/KuiklyMMKV",
     "examples": [
       "https://github.com/walkman707/KuiklyMMKV/tree/main/androidApp",
@@ -427,6 +427,97 @@
     "sDynamic": true
   },
   {
+    "githubUrl": "https://github.com/Kuikly-contrib/JsonMate", 
+    "examples": [
+      "https://github.com/Kuikly-contrib/KuiklyLibGallery"
+    ], 
+    "componentName": "JsonMate",
+    "componentDescription": "JsonMate 是一个基于 KSP (Kotlin Symbol Processing) 的插件，能够为标记了 `@FromJSONObject` 的类自动生成从 Kuikly 的 JSONObject 反序列化的代码。",  
+    "componentType": "KMP",
+    "developer": "KuiklyBase",  
+    "Android": true, 
+    "iOS": true, 
+    "Ohos": true, 
+    "Js": false, 
+    "Macos": true, 
+    "Linux": false, 
+    "Windows": false, 
+    "Tvos": false
+  },
+  {
+    "githubUrl": "https://github.com/Kuikly-contrib/kuiklyx-bridge", 
+    "examples": [
+      "https://github.com/Kuikly-contrib/KuiklyLibGallery"
+    ], 
+    "componentName": "kuiklyx-bridge",
+    "componentDescription": "Kuikly 统一插件路由组件",  
+    "componentType": "KMP",
+    "developer": "KuiklyBase",  
+    "Android": true, 
+    "iOS": true, 
+    "Ohos": true, 
+    "Js": true, 
+    "Macos": false, 
+    "Linux": false, 
+    "Windows": false, 
+    "Tvos": false
+  },
+  {
+    "githubUrl": "https://github.com/Kuikly-contrib/kuiklyx-viewmodel", 
+    "examples": [
+      "https://github.com/Kuikly-contrib/KuiklyLibGallery"
+    ], 
+    "componentName": "kuiklyx-viewmodel",
+    "componentDescription": "帮助快速关联 Kuikly Pager 生命周期的 ViewModel ，降低生命周期管理复杂度",  
+    "componentType": "KMP",
+    "developer": "KuiklyBase",  
+    "Android": true, 
+    "iOS": true, 
+    "Ohos": true, 
+    "Js": true, 
+    "Macos": false, 
+    "Linux": false, 
+    "Windows": false, 
+    "Tvos": false
+  },
+  {
+    "githubUrl": "https://github.com/Kuikly-contrib/kuiklyx-redux", 
+    "examples": [
+      "https://github.com/Kuikly-contrib/KuiklyLibGallery"
+    ], 
+    "componentName": "kuiklyx-redux",
+    "componentDescription": "为kuikly开发者提供一个高效、可预测的状态管理方案，实现跨组件通信。搭建redux与kuikly的链接桥梁，完善配套的基类、工具、中间件。",  
+    "componentType": "KMP",
+    "developer": "KuiklyBase",  
+    "Android": true, 
+    "iOS": true, 
+    "Ohos": true, 
+    "Js": true, 
+    "Macos": false, 
+    "Linux": false, 
+    "Windows": false, 
+    "Tvos": false
+  },
+  {
+    "githubUrl": "https://github.com/Kuikly-contrib/kuikly-compose-markdown",
+    "examples": [
+      "https://github.com/Tencent-TDS/KuiklyUI/tree/main/demo/src/commonMain/kotlin/com/tencent/kuikly/demo/pages/compose/chatDemo"
+    ],
+    "componentName": "kuikly-compose-markdown",
+    "componentDescription": "Kuikly Compose DSL 版本的 Markdown 渲染组件，支持标题、加粗、斜体、删除线、引用、表格、有序/无序列表、代码块、行内代码、链接等 Markdown 语法渲染，可自定义颜色与排版样式，适用于 AI 对话等场景。",
+    "componentType": "KMP",
+    "developer": "KuiklyBase",
+    "Android": true,
+    "iOS": true,
+    "Ohos": true,
+    "Js": true,
+    "Macos": true,
+    "Linux": false,
+    "Windows": false,
+    "Tvos": false,
+    "sDynamic": false
+  },
+  {
     "githubUrl": "https://github.com/ailuoku6/kisstate-kuikly",
     "componentName": "KisstateKuikly",
     "componentDescription": "kisstateKuikly 是一个在kuikly侧实现computed、watch的状态管理库，实现了类似React的useMemo，useEffect的api，方便状态派生和副作用监听，对前端开发者友好",
@@ -435,6 +526,5 @@
     "Android": true,
     "iOS": true,
     "Js": true,
-    "sDynamic": false
   }
 ]
