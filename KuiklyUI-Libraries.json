@@ -497,5 +497,113 @@
     "Linux": false, 
     "Windows": false, 
     "Tvos": false
+  },
+  {
+    "githubUrl": "https://github.com/Kuikly-contrib/KuiklyChatComponent", 
+    "examples": [
+      "https://github.com/Kuikly-contrib/KuiklyChatComponent/blob/main/shared/src/commonMain/kotlin/com/kuikly/kuiklychat/ChatDemoPage.kt"
+    ], 
+    "componentName": "KuiklyChatComponent",
+    "componentDescription": "Kuikly dsl封装的聊天会话组件，开箱即用",  
+    "componentType": "KMP",
+    "developer": "KuiklyBase",  
+    "Android": true, 
+    "iOS": true, 
+    "Ohos": true, 
+    "Js": true, 
+    "Macos": false, 
+    "Linux": false, 
+    "Windows": false, 
+    "Tvos": false
+  },
+  {
+    "githubUrl": "https://github.com/Kuikly-contrib/KuiklyCamera", 
+    "examples": [
+      "https://github.com/Kuikly-contrib/KuiklyCamera/tree/main/shared"
+    ], 
+    "componentName": "KuiklyCamera",
+    "componentDescription": "Kuikly相机组件，支持安卓、iOS、鸿蒙",  
+    "componentType": "KMP",
+    "developer": "KuiklyBase",  
+    "Android": true, 
+    "iOS": true, 
+    "Ohos": true, 
+    "Js": true, 
+    "Macos": false, 
+    "Linux": false, 
+    "Windows": false, 
+    "Tvos": false
+  },
+  {
+    "githubUrl": "https://github.com/Kuikly-contrib/KuiklyWebview", 
+    "examples": [
+      "https://github.com/Kuikly-contrib/KuiklyWebview/tree/main/shared"
+    ], 
+    "componentName": "KuiklyWebview",
+    "componentDescription": "KuiklyWebview 是基于Kuikly框架的跨端 WebView 组件，支持 Android、iOS、鸿蒙（OHOS）三端，提供统一的 DSL API 和 JSBridge 通信能力。",  
+    "componentType": "KMP",
+    "developer": "KuiklyBase",  
+    "Android": true, 
+    "iOS": true, 
+    "Ohos": true, 
+    "Js": true, 
+    "Macos": false, 
+    "Linux": false, 
+    "Windows": false, 
+    "Tvos": false
+  },
+  {
+    "githubUrl": "https://github.com/Kuikly-contrib/KuiklyMMKV", 
+    "examples": [
+      "https://github.com/Kuikly-contrib/KuiklyMMKV"
+    ], 
+    "componentName": "KuiklyMMKV",
+    "componentDescription": "Kuikly DSL 封装的 MMKV 组件",  
+    "componentType": "KMP",
+    "developer": "KuiklyBase",  
+    "Android": true, 
+    "iOS": true, 
+    "Ohos": true, 
+    "Js": true, 
+    "Macos": false, 
+    "Linux": false, 
+    "Windows": false, 
+    "Tvos": false
+  },
+  {
+    "githubUrl": "https://github.com/Kuikly-contrib/VBSQLite", 
+    "examples": [
+      "https://github.com/Kuikly-contrib/KuiklyLibGallery/blob/main/shared/src/commonMain/kotlin/com/example/kuiklylibgallery/SQLiteDemoPage.kt"
+    ], 
+    "componentName": "VBSQLite",
+    "componentDescription": "VBSQLite 是一个基于 Kotlin Multiplatform 的跨平台 SQLite 数据库组件，支持Android、iOS、HarmonyOS（鸿蒙）三端统一 API。",  
+    "componentType": "KMP",
+    "developer": "KuiklyBase",  
+    "Android": true, 
+    "iOS": true, 
+    "Ohos": true, 
+    "Js": true, 
+    "Macos": false, 
+    "Linux": false, 
+    "Windows": false, 
+    "Tvos": false
+  },
+  {
+    "githubUrl": "https://github.com/Kuikly-contrib/KuiklySQLite", 
+    "examples": [
+      "https://github.com/Kuikly-contrib/KuiklySQLite/shared"
+    ], 
+    "componentName": "KuiklySQLite",
+    "componentDescription": "适配Kuikly的数据库组件库，可支持动态化",  
+    "componentType": "KMP",
+    "developer": "KuiklyBase",  
+    "Android": true, 
+    "iOS": true, 
+    "Ohos": true, 
+    "Js": true, 
+    "Macos": false, 
+    "Linux": false, 
+    "Windows": false, 
+    "Tvos": false
   }
 ]
