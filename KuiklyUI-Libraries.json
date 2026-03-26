@@ -634,5 +634,29 @@
     "Android": true,
     "iOS": true,
     "Js": true
+  },
+  {
+    "githubUrl": "https://github.com/LiPengfei0106/Napier/tree/2.7.1-ohos",
+    "componentName": "Napier",
+    "componentDescription": "Napier is a logger library for Kotlin Multiplatform.",
+    "componentType": "KMP",
+    "developer": "LiPengfei0106",,
+    "Android": true,
+    "iOS": true,
+    "Ohos": true,
+    "Js": true,
+    "Macos": true,
+    "Linux": true,
+    "Windows": true,
+    "Tvos": true,
+    "sDynamic": true
+  },
+  {
+    "githubUrl": "https://github.com/LiPengfei0106/compose-color-preview-plugin/tree/kuikly",
+    "componentName": "compose-color-preview-plugin",
+    "componentDescription": "Compose color preview plugin for JetBrains IDE family.",
+    "componentType": "Tools",
+    "developer": "LiPengfei0106",
+    "sDynamic": false
   }
 ]
