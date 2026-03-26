@@ -640,7 +640,7 @@
     "componentName": "Napier",
     "componentDescription": "Napier is a logger library for Kotlin Multiplatform.",
     "componentType": "KMP",
-    "developer": "LiPengfei0106",,
+    "developer": "LiPengfei0106",
     "Android": true,
     "iOS": true,
     "Ohos": true,
