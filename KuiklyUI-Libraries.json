@@ -269,7 +269,7 @@
     "sDynamic": false
   },
 
-    {
+  {
     "githubUrl": "https://github.com/walkman707/KuiklyMMKV",
     "examples": [
       "https://github.com/walkman707/KuiklyMMKV/tree/main/androidApp",
@@ -427,25 +427,25 @@
     "sDynamic": true
   },
   {
-    "githubUrl": "https://github.com/Kuikly-contrib/JsonMate",
+    "githubUrl": "https://github.com/Kuikly-contrib/JsonMate", 
     "examples": [
       "https://github.com/Kuikly-contrib/KuiklyLibGallery"
-    ],
+    ], 
     "componentName": "JsonMate",
-    "componentDescription": "JsonMate 是一个基于 KSP (Kotlin Symbol Processing) 的插件，能够为标记了 `@FromJSONObject` 的类自动生成从 Kuikly 的 JSONObject 反序列化的代码。",
+    "componentDescription": "JsonMate 是一个基于 KSP (Kotlin Symbol Processing) 的插件，能够为标记了 `@FromJSONObject` 的类自动生成从 Kuikly 的 JSONObject 反序列化的代码。",  
     "componentType": "KMP",
-    "developer": "KuiklyBase",
-    "Android": true,
-    "iOS": true,
-    "Ohos": true,
-    "Js": false,
-    "Macos": true,
-    "Linux": false,
-    "Windows": false,
+    "developer": "KuiklyBase",  
+    "Android": true, 
+    "iOS": true, 
+    "Ohos": true, 
+    "Js": false, 
+    "Macos": true, 
+    "Linux": false, 
+    "Windows": false, 
     "Tvos": false
   },
   {
-    "githubUrl": "https://github.com/Kuikly-contrib/kuiklyx-bridge",
+    "githubUrl": "https://github.com/Kuikly-contrib/kuiklyx-bridge", 
     "examples": [
       "https://github.com/Kuikly-contrib/KuiklyLibGallery"
     ], 
