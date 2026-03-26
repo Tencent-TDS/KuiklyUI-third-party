@@ -468,7 +468,7 @@
       "https://github.com/Kuikly-contrib/KuiklyLibGallery"
     ], 
     "componentName": "kuiklyx-viewmodel",
-    "componentDescription": "帮助快速关联 Kuikly Pager 生命周期的 ViewModel ，降低生命周期管理复杂度",  
+    "componentDescription": "帮助快速关联 Kuikly Pager 生命周期的 ViewModel，降低生命周期管理复杂度",  
     "componentType": "KMP",
     "developer": "KuiklyBase",  
     "Android": true, 
