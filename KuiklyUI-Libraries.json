@@ -658,5 +658,24 @@
     "componentType": "Tools",
     "developer": "LiPengfei0106",
     "sDynamic": false
+  },
+  {
+    "githubUrl": "https://github.com/Kuikly-contrib/KuiklyMarkdown",
+    "examples": [
+      "https://github.com/Kuikly-contrib/KuiklyLibGallery/blob/main/shared/src/commonMain/kotlin/com/example/kuiklylibgallery/MarkdownDemoPage.kt"
+    ],
+    "componentName": "KuiklyMarkdown",
+    "componentDescription": "使用Kuikly DSL 的 Markdown 组件，适配Kuikly框架，支持安卓、iOS、鸿蒙",
+    "componentType": "KMP",
+    "developer": "KuiklyBase",
+    "Android": true,
+    "iOS": true,
+    "Ohos": true,
+    "Js": true,
+    "Macos": false,
+    "Linux": false,
+    "Windows": false,
+    "Tvos": false,
+    "sDynamic": false
   }
 ]
