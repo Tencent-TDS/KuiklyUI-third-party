@@ -677,5 +677,81 @@
     "Windows": false,
     "Tvos": false,
     "sDynamic": false
+  },
+  {
+    "githubUrl": "https://github.com/Kuikly-contrib/KuiklyAudio",
+    "examples": [
+      "https://github.com/Kuikly-contrib/KuiklyAudio/blob/main/shared/src/commonMain/kotlin/com/example/myapplication/AudioPlayerDemoPage.kt"
+    ],
+    "componentName": "KuiklyAudio",
+    "componentDescription": "Kuikly音频组件，支持安卓、iOS、鸿蒙",
+    "componentType": "KMP",
+    "developer": "KuiklyBase",
+    "Android": true,
+    "iOS": true,
+    "Ohos": true,
+    "Js": false,
+    "Macos": false,
+    "Linux": false,
+    "Windows": false,
+    "Tvos": false,
+    "sDynamic": false
+  },
+  {
+    "githubUrl": "https://github.com/Kuikly-contrib/KuiklyChatUI",
+    "examples": [
+      "https://github.com/Kuikly-contrib/KuiklyChatUI/blob/main/shared/src/commonMain/kotlin/com/kuikly/kuiklychat/ChatDemoPage.kt"
+    ],
+    "componentName": "KuiklyChatUI",
+    "componentDescription": "Kuikly dsl封装的聊天会话组件，支持安卓、iOS、鸿蒙",
+    "componentType": "KMP",
+    "developer": "KuiklyBase",
+    "Android": true,
+    "iOS": true,
+    "Ohos": true,
+    "Js": true,
+    "Macos": false,
+    "Linux": false,
+    "Windows": false,
+    "Tvos": false,
+    "sDynamic": false
+  },
+  {
+    "githubUrl": "https://github.com/Kuikly-contrib/KuiklyPhotoSelector",
+    "examples": [
+      "https://github.com/Kuikly-contrib/KuiklyPhotoSelector/blob/main/shared/src/commonMain/kotlin/com/example/myapplication/AlbumDemoPage.kt"
+    ],
+    "componentName": "KuiklyAlbum",
+    "componentDescription": "基于KuiklyUI框架的图片选择组件，安卓、iOS、鸿蒙三端适配",
+    "componentType": "KMP",
+    "developer": "KuiklyBase",
+    "Android": true,
+    "iOS": true,
+    "Ohos": true,
+    "Js": false,
+    "Macos": false,
+    "Linux": false,
+    "Windows": false,
+    "Tvos": false,
+    "sDynamic": false
+  },
+  {
+    "githubUrl": "https://github.com/Kuikly-contrib/KuiklyToast",
+    "examples": [
+      "https://github.com/Kuikly-contrib/KuiklyToast/blob/main/shared/src/commonMain/kotlin/com/example/myapplication/ToastDemoPage.kt"
+    ],
+    "componentName": "KuiklyToast",
+    "componentDescription": "Kuikly 跨平台 Toast 组件，支持 Android / iOS / 鸿蒙三端。",
+    "componentType": "KMP",
+    "developer": "KuiklyBase",
+    "Android": true,
+    "iOS": true,
+    "Ohos": true,
+    "Js": false,
+    "Macos": false,
+    "Linux": false,
+    "Windows": false,
+    "Tvos": false,
+    "sDynamic": false
   }
 ]
