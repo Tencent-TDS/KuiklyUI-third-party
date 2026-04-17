@@ -679,6 +679,17 @@
     "sDynamic": false
   },
   {
+    "githubUrl": "https://github.com/LiPengfei0106/compose-dnd/tree/kuikly",
+    "componentName": "Compose DND",
+    "componentDescription": "A library that allows you to easily add drag and drop functionality to your Compose Multiplatform projects.",
+    "componentType": "KMP",
+    "developer": "LiPengfei0106",
+    "Android": true,
+    "iOS": true,
+    "Ohos": true,
+    "sDynamic": false
+  },
+  {
     "githubUrl": "https://github.com/Kuikly-contrib/KuiklyAudio",
     "examples": [
       "https://github.com/Kuikly-contrib/KuiklyAudio/blob/main/shared/src/commonMain/kotlin/com/example/myapplication/AudioPlayerDemoPage.kt"
