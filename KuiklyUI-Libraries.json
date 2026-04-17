@@ -686,7 +686,8 @@
     "developer": "LiPengfei0106",
     "Android": true,
     "iOS": true,
-    "Ohos": true
+    "Ohos": true,
+    "sDynamic": false
   },
   {
     "githubUrl": "https://github.com/Kuikly-contrib/KuiklyAudio",
