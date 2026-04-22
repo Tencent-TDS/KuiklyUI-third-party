@@ -117,5 +117,19 @@
     "appName": "语悦",
     "author": "芒鸽",
     "date": "2025.11.25"
+  },
+  {
+    "articleUrl": "https://mp.weixin.qq.com/s/eAHKIh77Vz5OV4bJ3rYmiQ",
+    "articleTitle": "搜狗输入法 Kuikly AI 工程化：Spec coding 的探索与落地",
+    "appName": "搜狗输入法",
+    "author": "搜狗输入法团队",
+    "date": "2026.03.27"
+  },
+  {
+    "articleUrl": "https://mp.weixin.qq.com/s/ntyst7R7wxn4aPT4hD376g",
+    "articleTitle": "OpenClaw给我发来了它写的第一个Kuikly apk",
+    "appName": "OpenClaw实践探索",
+    "author": "腾讯工程师",
+    "date": "2026.04.13"
   }
 ]
