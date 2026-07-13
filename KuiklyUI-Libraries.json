@@ -753,5 +753,43 @@
     "Windows": false,
     "Tvos": false,
     "sDynamic": false
+  },
+  {
+    "githubUrl": "https://github.com/Kuikly-contrib/KuiklyDeviceCalendar",
+    "examples": [
+      "https://github.com/Kuikly-contrib/KuiklyDeviceCalendar/blob/main/shared/src/commonMain/kotlin/com/example/myapplication/DeviceCalendarDemoPage.kt"
+    ],
+    "componentName": "KuiklyDeviceCalendar",
+    "componentDescription": "适配 Kuikly 框架的跨平台系统日历事件组件，支持 Android / iOS / 鸿蒙三端。",
+    "componentType": "KMP",
+    "developer": "KuiklyBase",
+    "Android": true,
+    "iOS": true,
+    "Ohos": true,
+    "Js": false,
+    "Macos": false,
+    "Linux": false,
+    "Windows": false,
+    "Tvos": false,
+    "sDynamic": false
+  },
+  {
+    "githubUrl": "https://github.com/Kuikly-contrib/KuiklyContacts",
+    "examples": [
+      ""
+    ],
+    "componentName": "KuiklyContacts",
+    "componentDescription": "Kuikly 联系人组件，支持 安卓/iOS/鸿蒙 三端。",
+    "componentType": "KMP",
+    "developer": "KuiklyBase",
+    "Android": true,
+    "iOS": true,
+    "Ohos": true,
+    "Js": false,
+    "Macos": false,
+    "Linux": false,
+    "Windows": false,
+    "Tvos": false,
+    "sDynamic": false
   }
 ]
