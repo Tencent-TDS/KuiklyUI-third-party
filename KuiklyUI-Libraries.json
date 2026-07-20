@@ -840,5 +840,43 @@
     "Windows": false,
     "Tvos": false,
     "sDynamic": false
+  },
+  {
+    "githubUrl": "https://github.com/Kuikly-contrib/KuiklySensors",
+    "examples": [
+      "https://github.com/Kuikly-contrib/KuiklySensors/blob/main/shared/src/commonMain/kotlin/com/example/myapplication/SensorsDemoPage.kt"
+    ],
+    "componentName": "KuiklySensors",
+    "componentDescription": "适配 Kuikly 框架的传感器组件，支持 Android / iOS / 鸿蒙三端。",
+    "componentType": "KMP",
+    "developer": "KuiklyBase",
+    "Android": true,
+    "iOS": true,
+    "Ohos": true,
+    "Js": false,
+    "Macos": false,
+    "Linux": false,
+    "Windows": false,
+    "Tvos": false,
+    "sDynamic": false
+  },
+  {
+    "githubUrl": "https://github.com/Kuikly-contrib/KuiklyWebsocket",
+    "examples": [
+      "https://github.com/Kuikly-contrib/KuiklyWebsocket/blob/main/shared/src/commonMain/kotlin/com/example/myapplication/WebSocketDemoPage.kt"
+    ],
+    "componentName": "KuiklyWebsocket",
+    "componentDescription": "Kotlin Multiplatform 的跨端 WebSocket 连接管理组件，为 Kuikly 框架提供可靠的 WebSocket 连接能力。",
+    "componentType": "KMP",
+    "developer": "KuiklyBase",
+    "Android": true,
+    "iOS": true,
+    "Ohos": true,
+    "Js": false,
+    "Macos": false,
+    "Linux": false,
+    "Windows": false,
+    "Tvos": false,
+    "sDynamic": false
   }
 ]
