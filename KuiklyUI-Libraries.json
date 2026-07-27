@@ -1,8 +1,7 @@
 [
   {
     "githubUrl": "https://github.com/Tencent-TDS/KuiklyBase-platform/tree/main/androidx.annotation",
-    "examples": [
-    ],
+    "examples": [],
     "componentName": "androidx.annotation",
     "componentDescription": "androidx.annotation that support platform OpenHarmony",
     "componentType": "KMP",
@@ -17,11 +16,9 @@
     "Tvos": true,
     "sDynamic": true
   },
-
   {
     "githubUrl": "https://github.com/Tencent-TDS/KuiklyBase-platform/tree/main/androidx.collection",
-    "examples": [
-    ],
+    "examples": [],
     "componentName": "androidx.collection",
     "componentDescription": "androidx.collection that support platform OpenHarmony",
     "componentType": "KMP",
@@ -36,11 +33,9 @@
     "Tvos": true,
     "sDynamic": true
   },
-
   {
     "githubUrl": "https://github.com/Tencent-TDS/KuiklyBase-platform/tree/main/androidx.lifecycle",
-    "examples": [
-    ],
+    "examples": [],
     "componentName": "androidx.lifecycle",
     "componentDescription": "androidx.lifecycle that support platform OpenHarmony",
     "componentType": "KMP",
@@ -55,11 +50,9 @@
     "Tvos": true,
     "sDynamic": false
   },
-
   {
     "githubUrl": "https://github.com/Tencent-TDS/KuiklyBase-platform/tree/main/kotlinx.atomicfu",
-    "examples": [
-    ],
+    "examples": [],
     "componentName": "kotlinx.atomicfu",
     "componentDescription": "Kotlinx.atomicfu that support platform OpenHarmony.",
     "componentType": "KMP",
@@ -74,11 +67,9 @@
     "Tvos": true,
     "sDynamic": true
   },
-
   {
     "githubUrl": "https://github.com/Tencent-TDS/KuiklyBase-platform/tree/main/kotlinx.coroutines",
-    "examples": [
-    ],
+    "examples": [],
     "componentName": "kotlinx.coroutines",
     "componentDescription": "Kotlinx.coroutines that support platform OpenHarmony",
     "componentType": "KMP",
@@ -93,11 +84,9 @@
     "Tvos": true,
     "sDynamic": false
   },
-
   {
     "githubUrl": "https://github.com/Tencent-TDS/KuiklyBase-platform/tree/main/skiko",
-    "examples": [
-    ],
+    "examples": [],
     "componentName": "org.jetbrains.skiko",
     "componentDescription": "org.jetbrains.skiko that support platform OpenHarmony",
     "componentType": "KMP",
@@ -112,11 +101,9 @@
     "Tvos": true,
     "sDynamic": false
   },
-
   {
     "githubUrl": "https://github.com/Tencent-TDS/KuiklyBase-platform/tree/main/kotlinx.serialization",
-    "examples": [
-    ],
+    "examples": [],
     "componentName": "kotlinx.serialization",
     "componentDescription": "Kotlinx.serialization that support platform OpenHarmony.",
     "componentType": "KMP",
@@ -131,11 +118,9 @@
     "Tvos": true,
     "sDynamic": true
   },
-
   {
     "githubUrl": "https://github.com/Tencent-TDS/KuiklyBase-platform/tree/main/kotlinx.datetime",
-    "examples": [
-    ],
+    "examples": [],
     "componentName": "kotlinx.datetime",
     "componentDescription": "kotlinx.datetime version 0.6.0-RC.2 to support platform OpenHarmony.",
     "componentType": "KMP",
@@ -150,11 +135,9 @@
     "Tvos": true,
     "sDynamic": true
   },
-
   {
     "githubUrl": "https://github.com/Tencent-TDS/KuiklyBase-platform/tree/main/okio",
-    "examples": [
-    ],
+    "examples": [],
     "componentName": "com.squareup.okio",
     "componentDescription": "com.squareup.okio that support platform OpenHarmony.",
     "componentType": "KMP",
@@ -169,7 +152,6 @@
     "Tvos": true,
     "sDynamic": true
   },
-
   {
     "githubUrl": "https://github.com/Tencent-TDS/KuiklyBase-components/tree/master/knoi",
     "examples": [
@@ -182,7 +164,6 @@
     "Ohos": true,
     "sDynamic": false
   },
-
   {
     "githubUrl": "https://github.com/Tencent-TDS/KuiklyBase-components/tree/master/NetworkKMM",
     "examples": [
@@ -199,7 +180,6 @@
     "Ohos": true,
     "sDynamic": false
   },
-
   {
     "githubUrl": "https://github.com/Tencent-TDS/KuiklyBase-components/tree/master/KmmResource",
     "examples": [
@@ -216,11 +196,9 @@
     "Ohos": true,
     "sDynamic": false
   },
-
   {
     "githubUrl": "https://github.com/trhyl/kotlinx.serialization",
-    "examples": [
-    ],
+    "examples": [],
     "componentName": "kotlinx.serialization",
     "componentDescription": "基于Kuikly的鸿蒙平台的Serialization能力",
     "componentType": "KMP",
@@ -235,11 +213,9 @@
     "Tvos": false,
     "sDynamic": true
   },
-
   {
     "githubUrl": "https://github.com/trhyl/kuikly_easyui",
-    "examples": [
-    ],
+    "examples": [],
     "componentName": "eayui",
     "componentDescription": "Kuikly DSL UI框架",
     "componentType": "KMP",
@@ -254,11 +230,9 @@
     "Tvos": false,
     "sDynamic": false
   },
-
   {
     "githubUrl": "https://github.com/susirsusir/kuiklyMultiModuleDemo",
-    "examples": [
-    ],
+    "examples": [],
     "componentName": "kuiklyMultiModuleDemo",
     "componentDescription": "基于 Kuikly 框架的跨平台多模块架构演示项目，实现了业务模块间的低耦合通信，支持跨模块服务注册与调用。",
     "componentType": "KMP",
@@ -268,7 +242,6 @@
     "Ohos": true,
     "sDynamic": false
   },
-
   {
     "githubUrl": "https://github.com/walkman707/KuiklyMMKV",
     "examples": [
@@ -285,7 +258,6 @@
     "Ohos": true,
     "sDynamic": false
   },
-
   {
     "githubUrl": "https://github.com/walkman707/KuiklyLottie",
     "examples": [
@@ -324,7 +296,7 @@
     "Ohos": true,
     "sDynamic": false
   },
-    {
+  {
     "githubUrl": "https://github.com/blackbbc/voyager/tree/1.1.0-beta03-ohos",
     "componentName": "voyager",
     "componentDescription": "Voyager",
@@ -427,183 +399,183 @@
     "sDynamic": true
   },
   {
-    "githubUrl": "https://github.com/Kuikly-contrib/JsonMate", 
+    "githubUrl": "https://github.com/Kuikly-contrib/JsonMate",
     "examples": [
       "https://github.com/Kuikly-contrib/KuiklyLibGallery"
-    ], 
+    ],
     "componentName": "JsonMate",
-    "componentDescription": "JsonMate 是一个基于 KSP (Kotlin Symbol Processing) 的插件，能够为标记了 `@FromJSONObject` 的类自动生成从 Kuikly 的 JSONObject 反序列化的代码。",  
+    "componentDescription": "JsonMate 是一个基于 KSP (Kotlin Symbol Processing) 的插件，能够为标记了 `@FromJSONObject` 的类自动生成从 Kuikly 的 JSONObject 反序列化的代码。",
     "componentType": "KMP",
-    "developer": "KuiklyBase",  
-    "Android": true, 
-    "iOS": true, 
-    "Ohos": true, 
-    "Js": false, 
-    "Macos": true, 
-    "Linux": false, 
-    "Windows": false, 
+    "developer": "KuiklyBase",
+    "Android": true,
+    "iOS": true,
+    "Ohos": true,
+    "Js": false,
+    "Macos": true,
+    "Linux": false,
+    "Windows": false,
     "Tvos": false
   },
   {
-    "githubUrl": "https://github.com/Kuikly-contrib/kuiklyx-bridge", 
+    "githubUrl": "https://github.com/Kuikly-contrib/kuiklyx-bridge",
     "examples": [
       "https://github.com/Kuikly-contrib/KuiklyLibGallery"
-    ], 
+    ],
     "componentName": "kuiklyx-bridge",
-    "componentDescription": "Kuikly 统一插件路由组件",  
+    "componentDescription": "Kuikly 统一插件路由组件",
     "componentType": "KMP",
-    "developer": "KuiklyBase",  
-    "Android": true, 
-    "iOS": true, 
-    "Ohos": true, 
-    "Js": true, 
-    "Macos": false, 
-    "Linux": false, 
-    "Windows": false, 
+    "developer": "KuiklyBase",
+    "Android": true,
+    "iOS": true,
+    "Ohos": true,
+    "Js": true,
+    "Macos": false,
+    "Linux": false,
+    "Windows": false,
     "Tvos": false
   },
   {
-    "githubUrl": "https://github.com/Kuikly-contrib/kuiklyx-viewmodel", 
+    "githubUrl": "https://github.com/Kuikly-contrib/kuiklyx-viewmodel",
     "examples": [
       "https://github.com/Kuikly-contrib/KuiklyLibGallery"
-    ], 
+    ],
     "componentName": "kuiklyx-viewmodel",
-    "componentDescription": "帮助快速关联 Kuikly Pager 生命周期的 ViewModel，降低生命周期管理复杂度",  
+    "componentDescription": "帮助快速关联 Kuikly Pager 生命周期的 ViewModel，降低生命周期管理复杂度",
     "componentType": "KMP",
-    "developer": "KuiklyBase",  
-    "Android": true, 
-    "iOS": true, 
-    "Ohos": true, 
-    "Js": true, 
-    "Macos": false, 
-    "Linux": false, 
-    "Windows": false, 
+    "developer": "KuiklyBase",
+    "Android": true,
+    "iOS": true,
+    "Ohos": true,
+    "Js": true,
+    "Macos": false,
+    "Linux": false,
+    "Windows": false,
     "Tvos": false
   },
   {
-    "githubUrl": "https://github.com/Kuikly-contrib/kuiklyx-redux", 
+    "githubUrl": "https://github.com/Kuikly-contrib/kuiklyx-redux",
     "examples": [
       "https://github.com/Kuikly-contrib/KuiklyLibGallery"
-    ], 
+    ],
     "componentName": "kuiklyx-redux",
-    "componentDescription": "为kuikly开发者提供一个高效、可预测的状态管理方案，实现跨组件通信。搭建redux与kuikly的链接桥梁，完善配套的基类、工具、中间件。",  
+    "componentDescription": "为kuikly开发者提供一个高效、可预测的状态管理方案，实现跨组件通信。搭建redux与kuikly的链接桥梁，完善配套的基类、工具、中间件。",
     "componentType": "KMP",
-    "developer": "KuiklyBase",  
-    "Android": true, 
-    "iOS": true, 
-    "Ohos": true, 
-    "Js": true, 
-    "Macos": false, 
-    "Linux": false, 
-    "Windows": false, 
+    "developer": "KuiklyBase",
+    "Android": true,
+    "iOS": true,
+    "Ohos": true,
+    "Js": true,
+    "Macos": false,
+    "Linux": false,
+    "Windows": false,
     "Tvos": false
   },
   {
-    "githubUrl": "https://github.com/Kuikly-contrib/KuiklyChatComponent", 
+    "githubUrl": "https://github.com/Kuikly-contrib/KuiklyChatComponent",
     "examples": [
       "https://github.com/Kuikly-contrib/KuiklyChatComponent/blob/main/shared/src/commonMain/kotlin/com/kuikly/kuiklychat/ChatDemoPage.kt"
-    ], 
+    ],
     "componentName": "KuiklyChatComponent",
-    "componentDescription": "Kuikly dsl封装的聊天会话组件，开箱即用",  
+    "componentDescription": "Kuikly dsl封装的聊天会话组件，开箱即用",
     "componentType": "KMP",
-    "developer": "KuiklyBase",  
-    "Android": true, 
-    "iOS": true, 
-    "Ohos": true, 
-    "Js": true, 
-    "Macos": false, 
-    "Linux": false, 
-    "Windows": false, 
+    "developer": "KuiklyBase",
+    "Android": true,
+    "iOS": true,
+    "Ohos": true,
+    "Js": true,
+    "Macos": false,
+    "Linux": false,
+    "Windows": false,
     "Tvos": false
   },
   {
-    "githubUrl": "https://github.com/Kuikly-contrib/KuiklyCamera", 
+    "githubUrl": "https://github.com/Kuikly-contrib/KuiklyCamera",
     "examples": [
       "https://github.com/Kuikly-contrib/KuiklyCamera/tree/main/shared"
-    ], 
+    ],
     "componentName": "KuiklyCamera",
-    "componentDescription": "Kuikly相机组件，支持安卓、iOS、鸿蒙",  
+    "componentDescription": "Kuikly相机组件，支持安卓、iOS、鸿蒙",
     "componentType": "KMP",
-    "developer": "KuiklyBase",  
-    "Android": true, 
-    "iOS": true, 
-    "Ohos": true, 
-    "Js": true, 
-    "Macos": false, 
-    "Linux": false, 
-    "Windows": false, 
+    "developer": "KuiklyBase",
+    "Android": true,
+    "iOS": true,
+    "Ohos": true,
+    "Js": true,
+    "Macos": false,
+    "Linux": false,
+    "Windows": false,
     "Tvos": false
   },
   {
-    "githubUrl": "https://github.com/Kuikly-contrib/KuiklyWebview", 
+    "githubUrl": "https://github.com/Kuikly-contrib/KuiklyWebview",
     "examples": [
       "https://github.com/Kuikly-contrib/KuiklyWebview/tree/main/shared"
-    ], 
+    ],
     "componentName": "KuiklyWebview",
-    "componentDescription": "KuiklyWebview 是基于Kuikly框架的跨端 WebView 组件，支持 Android、iOS、鸿蒙（OHOS）三端，提供统一的 DSL API 和 JSBridge 通信能力。",  
+    "componentDescription": "KuiklyWebview 是基于Kuikly框架的跨端 WebView 组件，支持 Android、iOS、鸿蒙（OHOS）三端，提供统一的 DSL API 和 JSBridge 通信能力。",
     "componentType": "KMP",
-    "developer": "KuiklyBase",  
-    "Android": true, 
-    "iOS": true, 
-    "Ohos": true, 
-    "Js": true, 
-    "Macos": false, 
-    "Linux": false, 
-    "Windows": false, 
+    "developer": "KuiklyBase",
+    "Android": true,
+    "iOS": true,
+    "Ohos": true,
+    "Js": true,
+    "Macos": false,
+    "Linux": false,
+    "Windows": false,
     "Tvos": false
   },
   {
-    "githubUrl": "https://github.com/Kuikly-contrib/KuiklyMMKV", 
+    "githubUrl": "https://github.com/Kuikly-contrib/KuiklyMMKV",
     "examples": [
       "https://github.com/Kuikly-contrib/KuiklyMMKV"
-    ], 
+    ],
     "componentName": "KuiklyMMKV",
-    "componentDescription": "Kuikly DSL 封装的 MMKV 组件",  
+    "componentDescription": "Kuikly DSL 封装的 MMKV 组件",
     "componentType": "KMP",
-    "developer": "KuiklyBase",  
-    "Android": true, 
-    "iOS": true, 
-    "Ohos": true, 
-    "Js": true, 
-    "Macos": false, 
-    "Linux": false, 
-    "Windows": false, 
+    "developer": "KuiklyBase",
+    "Android": true,
+    "iOS": true,
+    "Ohos": true,
+    "Js": true,
+    "Macos": false,
+    "Linux": false,
+    "Windows": false,
     "Tvos": false
   },
   {
-    "githubUrl": "https://github.com/Kuikly-contrib/VBSQLite", 
+    "githubUrl": "https://github.com/Kuikly-contrib/VBSQLite",
     "examples": [
       "https://github.com/Kuikly-contrib/KuiklyLibGallery/blob/main/shared/src/commonMain/kotlin/com/example/kuiklylibgallery/SQLiteDemoPage.kt"
-    ], 
+    ],
     "componentName": "VBSQLite",
-    "componentDescription": "VBSQLite 是一个基于 Kotlin Multiplatform 的跨平台 SQLite 数据库组件，支持Android、iOS、HarmonyOS（鸿蒙）三端统一 API。",  
+    "componentDescription": "VBSQLite 是一个基于 Kotlin Multiplatform 的跨平台 SQLite 数据库组件，支持Android、iOS、HarmonyOS（鸿蒙）三端统一 API。",
     "componentType": "KMP",
-    "developer": "KuiklyBase",  
-    "Android": true, 
-    "iOS": true, 
-    "Ohos": true, 
-    "Js": true, 
-    "Macos": false, 
-    "Linux": false, 
-    "Windows": false, 
+    "developer": "KuiklyBase",
+    "Android": true,
+    "iOS": true,
+    "Ohos": true,
+    "Js": true,
+    "Macos": false,
+    "Linux": false,
+    "Windows": false,
     "Tvos": false
   },
   {
-    "githubUrl": "https://github.com/Kuikly-contrib/KuiklySQLite", 
+    "githubUrl": "https://github.com/Kuikly-contrib/KuiklySQLite",
     "examples": [
       "https://github.com/Kuikly-contrib/KuiklySQLite/shared"
-    ], 
+    ],
     "componentName": "KuiklySQLite",
-    "componentDescription": "适配Kuikly的数据库组件库，可支持动态化",  
+    "componentDescription": "适配Kuikly的数据库组件库，可支持动态化",
     "componentType": "KMP",
-    "developer": "KuiklyBase",  
-    "Android": true, 
-    "iOS": true, 
-    "Ohos": true, 
-    "Js": true, 
-    "Macos": false, 
-    "Linux": false, 
-    "Windows": false, 
+    "developer": "KuiklyBase",
+    "Android": true,
+    "iOS": true,
+    "Ohos": true,
+    "Js": true,
+    "Macos": false,
+    "Linux": false,
+    "Windows": false,
     "Tvos": false
   },
   {
@@ -877,6 +849,22 @@
     "Linux": false,
     "Windows": false,
     "Tvos": false,
+    "sDynamic": false
+  },
+  {
+    "githubUrl": "https://github.com/Kuikly-contrib/KuiklyBluetooth",
+    "examples": [
+      "https://github.com/Kuikly-contrib/KuiklyBluetooth/tree/main/androidApp",
+      "https://github.com/Kuikly-contrib/KuiklyBluetooth/tree/main/iosApp",
+      "https://github.com/Kuikly-contrib/KuiklyBluetooth/tree/main/ohosApp"
+    ],
+    "componentName": "KuiklyBluetooth",
+    "componentDescription": "适配 Kuikly 框架的蓝牙(BLE)组件，支持 Android / iOS / 鸿蒙三端。",
+    "componentType": "KMP",
+    "developer": "KuiklyBase",
+    "Android": true,
+    "iOS": true,
+    "Ohos": true,
     "sDynamic": false
   }
 ]
