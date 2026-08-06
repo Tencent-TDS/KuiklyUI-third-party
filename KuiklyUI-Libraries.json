@@ -866,5 +866,21 @@
     "iOS": true,
     "Ohos": true,
     "sDynamic": false
+  },
+  {
+    "githubUrl": "https://github.com/kairowan/Kuikly-Network",
+    "examples": [
+      "https://github.com/kairowan/Kuikly-Network/tree/main/androidApp",
+      "https://github.com/kairowan/Kuikly-Network/tree/main/iosApp",
+      "https://github.com/kairowan/Kuikly-Network/tree/main/ohosApp"
+    ],
+    "componentName": "Kuikly Network",
+    "componentDescription": "面向 Kuikly 与 Kotlin Multiplatform 的可组合网络库，支持 Android、iOS 和 HarmonyOS，提供注解式请求、拦截器、多 Base URL、缓存、重试、实时通信与可扩展 Engine。",
+    "componentType": "KMP",
+    "developer": "kairowan",
+    "Android": true,
+    "iOS": true,
+    "Ohos": true,
+    "sDynamic": false
   }
 ]
