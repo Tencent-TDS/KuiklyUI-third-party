@@ -866,5 +866,22 @@
     "iOS": true,
     "Ohos": true,
     "sDynamic": false
+  },
+  {
+    "githubUrl": "https://github.com/ailuoku6/kuikly-devtools",
+    "examples": [],
+    "componentName": "kuikly-devtools",
+    "componentDescription": "Kuikly 真机页面调试工具，提供类 Chrome DevTools 的节点树、属性与布局、组件状态、日志、网络请求和原生模块调用查看能力，并支持面向 AI 的按需页面信息检索。",
+    "componentType": "Tools",
+    "developer": "ailuoku6",
+    "Android": true,
+    "iOS": true,
+    "Ohos": true,
+    "Js": false,
+    "Macos": false,
+    "Linux": false,
+    "Windows": false,
+    "Tvos": false,
+    "sDynamic": false
   }
 ]
