@@ -866,5 +866,24 @@
     "iOS": true,
     "Ohos": true,
     "sDynamic": false
+  },
+  {
+    "githubUrl": "https://github.com/Nobbyyinchen/KuiklyBanner",
+    "examples": [
+      "https://github.com/Nobbyyinchen/KuiklyBanner/blob/main/sample/src/commonMain/kotlin/com/hzbank/kuikly/banner/sample/BannerExample.kt"
+    ],
+    "componentName": "KuiklyBanner",
+    "componentDescription": "Kuikly DSL 双轮播组件库，提供可露出相邻卡片的 PeekBannerV2 与主副区域双向同步的 DoubleBanner，支持无限循环、自动播放和自定义 Item 渲染。",
+    "componentType": "KMP",
+    "developer": "Nobbyyinchen",
+    "Android": true,
+    "iOS": true,
+    "Ohos": true,
+    "Js": true,
+    "Macos": false,
+    "Linux": false,
+    "Windows": false,
+    "Tvos": false,
+    "sDynamic": true
   }
 ]
