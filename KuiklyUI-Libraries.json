@@ -1019,5 +1019,24 @@
     "Windows": false,
     "Tvos": false,
     "sDynamic": true
+  },
+  {
+    "githubUrl": "https://github.com/Nobbyyinchen/KuiklyBanner",
+    "examples": [
+      "https://github.com/Nobbyyinchen/KuiklyBanner/blob/main/sample/src/commonMain/kotlin/io/github/nobbyyinchen/kuikly/banner/sample/BannerExample.kt"
+    ],
+    "componentName": "KuiklyBanner",
+    "componentDescription": "已在企业级 App 落地的 Kuikly DSL 基础轮播组件库，提供相邻卡片露出的 PeekBannerV2、主副区域同步的 DoubleBanner、垂直层叠的 VerticalBanner 和主卡展开的 FocusCardBanner，支持 Android、iOS、鸿蒙、无限循环、自动播放和自定义 Item。",
+    "componentType": "KMP",
+    "developer": "Nobbyyinchen",
+    "Android": true,
+    "iOS": true,
+    "Ohos": true,
+    "Js": true,
+    "Macos": false,
+    "Linux": false,
+    "Windows": false,
+    "Tvos": false,
+    "sDynamic": true
   }
 ]
