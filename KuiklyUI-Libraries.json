@@ -1072,5 +1072,21 @@
     "Ohos": true,
     "Js": true,
     "sDynamic": true
+  },
+  {
+    "githubUrl": "https://github.com/AriaLEntropy/KuiklyNotification",
+    "examples": [
+      "https://github.com/AriaLEntropy/KuiklyNotification/tree/main/androidApp",
+      "https://github.com/AriaLEntropy/KuiklyNotification/tree/main/iosApp",
+      "https://github.com/AriaLEntropy/KuiklyNotification/tree/main/ohosApp"
+    ],
+    "componentName": "KuiklyNotification",
+    "componentDescription": "基于 Kuikly 的跨端本地通知组件，支持 Android / iOS / 鸿蒙三端，提供通知权限申请、通知渠道管理、立即/定时/重复通知、取消通知、点击回跳与冷启动 payload 获取",
+    "componentType": "KMP",
+    "developer": "AriaLEntropy",
+    "Android": true,
+    "iOS": true,
+    "Ohos": true,
+    "sDynamic": false
   }
 ]
