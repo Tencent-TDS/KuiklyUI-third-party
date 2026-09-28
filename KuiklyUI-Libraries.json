@@ -1076,58 +1076,34 @@
   {
     "githubUrl": "https://github.com/Nobbyyinchen/KuiklyToolkit",
     "examples": [
-      "https://github.com/Nobbyyinchen/KuiklyToolkit/blob/main/sample/src/commonMain/kotlin/io/github/nobbyyinchen/kuikly/toolkit/sample/ToolkitExamples.kt"
+      "https://github.com/Nobbyyinchen/KuiklyToolkit/tree/main/android-demo"
     ],
     "componentName": "KuiklyToolkit",
-    "componentDescription": "面向 Kuikly 传统 DSL 的通用 UI 组件库，提供滑动时连续调整高度的 AdaptiveHeightPager、稳定双层节点的 StableImage、一次性懒挂载的 LazyMountContainer 和支持分页去重、失败重试及过期响应丢弃的 PaginatedWaterfall，业务请求和内容渲染由调用方提供。",
+    "componentDescription": "面向 Kuikly 传统 DSL 的通用 UI 组件：不同高度页面随手势连续过渡、图片加载兜底、一次性懒挂载，以及支持失败重试和过期响应保护的分页瀑布流。提供独立 Android Demo、源码接入指南与公开 CI。",
     "componentType": "KMP",
     "developer": "Nobbyyinchen",
-    "Android": true,
-    "iOS": true,
-    "Ohos": true,
-    "Js": true,
-    "Macos": false,
-    "Linux": false,
-    "Windows": false,
-    "Tvos": false,
-    "sDynamic": true
+    "Android": true
   },
   {
     "githubUrl": "https://github.com/Nobbyyinchen/KuiklyToolkit/tree/main/kuikly-toolkit/src/commonMain/kotlin/io/github/nobbyyinchen/kuikly/toolkit/debug",
     "examples": [
-      "https://github.com/Nobbyyinchen/KuiklyToolkit/blob/main/sample/src/commonMain/kotlin/io/github/nobbyyinchen/kuikly/toolkit/sample/ToolkitExamples.kt"
+      "https://github.com/Nobbyyinchen/KuiklyToolkit/tree/main/android-demo"
     ],
     "componentName": "KuiklyDebugConsole",
-    "componentDescription": "基于 Kuikly 传统 DSL 的端内日志调试面板，提供 DebugConsole 和 DebugLogStore，支持日志容量限制、重复日志折叠、等级及关键词筛选、清空和复制回调；日志源、页面名、时间和剪贴板均由接入方注入，无需私有 Native Bridge。",
+    "componentDescription": "在 Kuikly 页面内查看和筛选日志：支持容量限制、重复折叠、等级及关键词筛选、清空和复制回调。日志源与平台服务通过参数注入，提供独立 Android 示例。",
     "componentType": "Tools",
     "developer": "Nobbyyinchen",
-    "Android": true,
-    "iOS": true,
-    "Ohos": true,
-    "Js": true,
-    "Macos": false,
-    "Linux": false,
-    "Windows": false,
-    "Tvos": false,
-    "sDynamic": true
+    "Android": true
   },
   {
     "githubUrl": "https://github.com/Nobbyyinchen/KuiklyToolkit/tree/main/kuikly-lenient-serialization",
     "examples": [
-      "https://github.com/Nobbyyinchen/KuiklyToolkit/blob/main/sample/src/commonMain/kotlin/io/github/nobbyyinchen/kuikly/toolkit/sample/SerializationExample.kt"
+      "https://github.com/Nobbyyinchen/KuiklyToolkit/tree/main/android-demo"
     ],
     "componentName": "KuiklyLenientSerialization",
-    "componentDescription": "基于 kotlinx.serialization 的 KMP JSON 容错适配器，兼容空字符串表示 List、Map、Object、Boolean 和数值的异常数据，提供数值默认值、Boolean 及基础类型转 String 适配；容器和对象对非空错误类型仍保持严格校验，可独立于 Kuikly UI 模块使用。",
+    "componentDescription": "可独立于 Kuikly UI 使用的 KMP kotlinx.serialization 字段适配器，按字段兼容空字符串表示非 String 类型的异常 JSON；数值使用默认值，容器和对象对非空错误类型保持严格失败。",
     "componentType": "KMP",
     "developer": "Nobbyyinchen",
-    "Android": true,
-    "iOS": true,
-    "Ohos": true,
-    "Js": true,
-    "Macos": false,
-    "Linux": false,
-    "Windows": false,
-    "Tvos": false,
-    "sDynamic": true
+    "Android": true
   }
 ]
