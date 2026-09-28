@@ -1084,6 +1084,7 @@
     "developer": "GearUI",
     "Android": true,
     "iOS": true,
+    "Ohos": true,
     "Js": true,
     "sDynamic": false
   }
