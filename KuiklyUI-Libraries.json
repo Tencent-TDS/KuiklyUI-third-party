@@ -1072,5 +1072,19 @@
     "Ohos": true,
     "Js": true,
     "sDynamic": true
+  },
+  {
+    "githubUrl": "https://github.com/gearui/gearui-kit",
+    "examples": [
+      "https://github.com/gearui/gearui-kit/tree/main/sample"
+    ],
+    "componentName": "GearUI Kit",
+    "componentDescription": "基于 Kuikly Compose 与 Kotlin Multiplatform 的移动端优先跨平台 UI 框架，提供完整组件库、可定制主题、DTCG 2025.10 Token 工具链，以及国际化、导航与浮层能力。",
+    "componentType": "KMP",
+    "developer": "GearUI",
+    "Android": true,
+    "iOS": true,
+    "Js": true,
+    "sDynamic": false
   }
 ]
