@@ -1079,7 +1079,7 @@
       "https://github.com/Nobbyyinchen/KuiklyToolkit/tree/main/android-demo"
     ],
     "componentName": "KuiklyToolkit",
-    "componentDescription": "面向 Kuikly 传统 DSL 的通用 UI 组件：不同高度页面随手势连续过渡、图片加载兜底、一次性懒挂载，以及支持失败重试和过期响应保护的分页瀑布流。提供独立 Android Demo、源码接入指南与公开 CI。",
+    "componentDescription": "面向 Kuikly 传统 DSL 的通用 UI 组件：AdaptiveHeightPager 适配不同分类菜单数量，横向滑动时连续调整容器高度并带动下方内容；另含图片加载兜底、一次性懒挂载和带过期响应保护的分页瀑布流。提供独立 Android Demo、源码接入指南与公开 CI。",
     "componentType": "KMP",
     "developer": "Nobbyyinchen",
     "Android": true
@@ -1090,7 +1090,7 @@
       "https://github.com/Nobbyyinchen/KuiklyToolkit/tree/main/android-demo"
     ],
     "componentName": "KuiklyDebugConsole",
-    "componentDescription": "在 Kuikly 页面内查看和筛选日志：支持容量限制、重复折叠、等级及关键词筛选、清空和复制回调。日志源与平台服务通过参数注入，提供独立 Android 示例。",
+    "componentDescription": "开发和联调阶段可在运行中的 Kuikly 页面查看业务主动写入的接口方法、参数、返回结果、状态和异常；支持容量限制、重复折叠、等级及关键词筛选、清空和复制回调，不会自动 Hook 网络请求或业务方法。提供独立 Android 示例。",
     "componentType": "Tools",
     "developer": "Nobbyyinchen",
     "Android": true
