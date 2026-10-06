@@ -1076,19 +1076,25 @@
   {
     "githubUrl": "https://github.com/zrlmeng/kuikly-platform-design",
     "examples": [
-      "https://apk-dl.zrlmeng.com/ui.apk",
-      "https://ui-demo-h5.zrlmeng.com/?page_name=design_system_gallery&product_line=ui",
       "https://ui-site.zrlmeng.com",
+      "https://ui-demo-h5.zrlmeng.com/?page_name=design_system_gallery&product_line=ui",
+      "https://apk-dl.zrlmeng.com/ui.apk",
       "https://github.com/zrlmeng/kuikly-platform-design/blob/main/HOST-MINIMAL.md",
+      "https://github.com/zrlmeng/kuikly-platform-design/blob/main/COMPARE.md",
       "https://central.sonatype.com/artifact/com.sxztdhkjyxgs/platform-design"
     ],
     "componentName": "platform-design",
-    "componentDescription": "Enterprise Kuikly Compose business design system and plugin facades (themes, forms, feedback, navigation, Stitch neumorphism). Complements KuiklyUI primitives; not an engine replacement. Android Maven binary + placeholder sources; public docs/demos only (no source tree).",
+    "componentDescription": "ShouZhuan UI / platform-design: production Kuikly Compose business design system (themes, forms, feedback, navigation, Stitch neumorphism, office/play scene styles) plus plugin facades. Live docs, H5 Gallery, and Android Gallery APK. Maven binary + placeholder sources only (no product source tree). Complements KuiklyUI primitives; not an engine replacement.",
     "componentType": "KMP",
     "developer": "zrlmeng",
     "Android": true,
     "iOS": false,
     "Ohos": true,
-    "Js": true
+    "Js": true,
+    "Macos": false,
+    "Linux": false,
+    "Windows": false,
+    "Tvos": false,
+    "sDynamic": false
   }
 ]
