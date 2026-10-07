@@ -1135,7 +1135,7 @@
       "https://github.com/gearui/gearui-kit/tree/main/sample"
     ],
     "componentName": "GearUI Kit",
-    "componentDescription": "基于 Kuikly Compose 与 Kotlin Multiplatform 的移动端优先跨平台 UI 框架，提供完整组件库、可定制主题、DTCG 2025.10 Token 工具链，以及国际化、导航与浮层能力。",
+    "componentDescription": "GearUI Kit 是一套完整的跨平台 UI 库，内置 70 多个高质量 UI 组件，严格遵循设计标准，也具备高级的用户交互手感，支持 iOS、Android、HarmonyOS、Web，具备完整的主题切换和主题色设定，并具备完整的多语言国际化能力。",
     "componentType": "KMP",
     "developer": "GearUI",
     "Android": true,
