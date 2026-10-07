@@ -1135,7 +1135,7 @@
       "https://github.com/gearui/gearui-kit/tree/main/sample"
     ],
     "componentName": "GearUI Kit",
-    "componentDescription": "GearUI Kit 是一套完整的跨平台 UI 库，内置 70 多个高质量 UI 组件，支持 iOS、Android、Web 和 HarmonyOS，具备完整的主题切换与定制能力，以及完善的国际化与多语言支持。",
+    "componentDescription": "GearUI Kit 是一套完整的跨平台 UI 库，内置 70 多个高质量 UI 组件，支持 iOS、Android、HarmonyOS、Web，具备完整的主题切换和多语言国际化支持。",
     "componentType": "KMP",
     "developer": "GearUI",
     "Android": true,
