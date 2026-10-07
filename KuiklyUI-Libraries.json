@@ -1135,7 +1135,7 @@
       "https://github.com/gearui/gearui-kit/tree/main/sample"
     ],
     "componentName": "GearUI Kit",
-    "componentDescription": "GearUI Kit 是一套完整的、移动端优先的跨平台 UI 组件库，内置 80 多个高质量组件，覆盖表单输入、导航、数据展示、操作反馈和浮层交互等常用场景。支持 Android、iOS、Web 和 HarmonyOS，提供统一的视觉与交互规范、可定制主题、DTCG 2025.10 设计 Token 工具链及国际化能力，让开发者用一套代码构建一致的多端界面。",
+    "componentDescription": "GearUI Kit 是一套完整的、移动端优先的跨平台 UI 组件库，内置 80 多个高质量组件，覆盖表单输入、导航、数据展示、操作反馈和浮层交互等常用场景。支持 Android、iOS、Web 和 HarmonyOS，提供统一的视觉与交互规范、完整的主题切换与定制能力，以及完善的国际化与多语言支持。亮暗模式、品牌关键色和全局样式均可灵活切换，并配备 DTCG 2025.10 设计 Token 工具链，让开发者用一套代码构建风格一致、面向全球用户的多端界面。",
     "componentType": "KMP",
     "developer": "GearUI",
     "Android": true,
