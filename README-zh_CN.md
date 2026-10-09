@@ -27,7 +27,7 @@ KuiklyUI-third-party 仓库是收录所有与 KuiklyUI 相关的技术分享和 
   ], 
   "componentName": "<Your Component Name>",
   "componentDescription": "<Your Component Description>",  
-  "componentType": "<KMP|KuiklyView|KuiklyModule|Tools|Demo>",
+  "componentType": "<KMP|KuiklyView|KuiklyModule|Tools|Demo|AITools>",
   "developer": "<Developer of this Component>",  
   "Android": false, 
   "iOS": false, 
@@ -51,7 +51,7 @@ KuiklyUI-third-party 仓库是收录所有与 KuiklyUI 相关的技术分享和 
 - `developer`
   **(string)** - 组件开发者。
 - `componentType`
-  **(string)** - 该库的类型。KMP:标准KMP组件；KuiklyView: Kuikly扩展View；KuiklyModule：Kuikly扩展Module；Tools：开发调试工具；Demo：示例 / Demo 项目。
+  **(string)** - 该库的类型。KMP:标准KMP组件；KuiklyView: Kuikly扩展View；KuiklyModule：Kuikly扩展Module；Tools：开发调试工具；Demo：示例 / Demo 项目；AITools：AI 工具。
 
 #### 支持平台字段
 - `Android`

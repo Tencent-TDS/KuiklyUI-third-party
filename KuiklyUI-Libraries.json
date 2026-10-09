@@ -1242,5 +1242,29 @@
     "iOS": true,
     "Ohos": true,
     "sDynamic": false
+  },
+  {
+    "githubUrl": "https://github.com/Tencent-TDS/dsh-kuikly-expert",
+    "examples": [
+      "https://github.com/Tencent-TDS/dsh-kuikly-expert/blob/main/INSTALL.md",
+      "https://github.com/Tencent-TDS/dsh-kuikly-expert/blob/main/INSTALL.zh.md"
+    ],
+    "componentName": "dsh-kuikly-expert",
+    "componentDescription": "Kuikly DeepSeek Harness 插件，安装后让 dsh agent 具备跨端 Kuikly 开发能力：工程脚手架、UI 框架 API、构建与真机预览。",
+    "componentType": "AITools",
+    "developer": "Tencent-TDS",
+    "sDynamic": false
+  },
+  {
+    "githubUrl": "https://github.com/Tencent-TDS/KuiklyUI-AI",
+    "examples": [
+      "https://github.com/Tencent-TDS/KuiklyUI-AI/tree/main/skills",
+      "https://github.com/Tencent-TDS/KuiklyUI-AI/tree/main/rules"
+    ],
+    "componentName": "KuiklyUI-AI",
+    "componentDescription": "面向 KuiklyUI 的 AI 开发工具与规则集，提供 Cursor / CodeBuddy 等可用的 Skills 与 Rules，提升跨端开发效率。",
+    "componentType": "AITools",
+    "developer": "Tencent-TDS",
+    "sDynamic": false
   }
 ]
