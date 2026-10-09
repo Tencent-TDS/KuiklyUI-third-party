@@ -27,7 +27,7 @@ Please follow the format, field order, and indentation as shown below. Omit fiel
   ], 
   "componentName": "<Your Component Name>",
   "componentDescription": "<Your Component Description>",
-  "componentType": "<KMP|KuiklyView|KuiklyModule|Tools>",
+  "componentType": "<KMP|KuiklyView|KuiklyModule|Tools|Demo>",
   "developer": "<Developer of this Component>",
   "Android": false, 
   "iOS": false, 
@@ -51,7 +51,7 @@ Please follow the format, field order, and indentation as shown below. Omit fiel
 - `developer`
   **(string)** - The developer of this Component.
 - `componentType`
-  **(string)** - The type of library. KMP: Standard KMP component; KuiklyView: Kuikly extended View; KuiklyModule: Kuikly extended Module.
+  **(string)** - The type of library. KMP: Standard KMP component; KuiklyView: Kuikly extended View; KuiklyModule: Kuikly extended Module; Tools: developer tools; Demo: sample / demo projects.
 
 #### Supported Platform Fields
 - `Android`
