@@ -159,7 +159,7 @@
     ],
     "componentName": "knoi",
     "componentDescription": "Provides mutual calling capability between Kotlin Native & ArkTS without writing C/C++ bridging code.",
-    "componentType": "Tools",
+    "componentType": "KMP",
     "developer": "KuiklyBase",
     "Ohos": true,
     "sDynamic": false
