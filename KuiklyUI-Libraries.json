@@ -1266,5 +1266,301 @@
     "componentType": "AITools",
     "developer": "Tencent-TDS",
     "sDynamic": false
+  },
+  {
+    "githubUrl": "https://github.com/HongMing-Huang/KuiklyTable",
+    "examples": [
+      "https://github.com/HongMing-Huang/KuiklyTable/tree/main/androidApp",
+      "https://github.com/HongMing-Huang/KuiklyTable/tree/main/iosApp",
+      "https://github.com/HongMing-Huang/KuiklyTable/tree/main/ohosApp",
+      "https://hongming-huang.github.io/KuiklyTable/"
+    ],
+    "componentName": "KuiklyTable",
+    "componentDescription": "基于 KuiklyUI 的跨平台数据驱动表格组件，支持多行多列展示、双向滚动、自定义主题与单元格自定义渲染，覆盖 Android / iOS / macOS / JS / OHOS 五端。",
+    "componentType": "KuiklyView",
+    "developer": "HongMing-Huang",
+    "Android": true,
+    "iOS": true,
+    "Ohos": true,
+    "Js": true,
+    "Macos": true,
+    "sDynamic": false
+  },
+  {
+    "githubUrl": "https://github.com/wwwcg/create-kuikly-app",
+    "examples": [
+      "https://github.com/wwwcg/create-kuikly-app#quick-start"
+    ],
+    "componentName": "create-kuikly-app",
+    "componentDescription": "Kuikly 跨端工程脚手架 CLI：一条命令生成完整 Kuikly 项目，支持 kuikly / compose DSL，面向 AI Agent 提供 --json 非交互输出。",
+    "componentType": "Tools",
+    "developer": "wwwcg",
+    "sDynamic": false
+  },
+  {
+    "githubUrl": "https://github.com/wawo00/KuiklyWallyChat",
+    "examples": [
+      "https://github.com/wawo00/KuiklyWallyChat/tree/main/androidApp",
+      "https://github.com/wawo00/KuiklyWallyChat/tree/main/iosApp",
+      "https://github.com/wawo00/KuiklyWallyChat/tree/main/ohosApp",
+      "https://github.com/wawo00/KuiklyWallyChat/tree/main/h5App"
+    ],
+    "componentName": "KuiklyWallyChat",
+    "componentDescription": "基于 Kuikly Compose 与腾讯云 IM SDK 的聊天 App Demo，展示从 Android Compose 到 Kuikly Compose 的 IM 迁移实践；Android 端已验证，shared 承载跨端 UI 与业务状态。",
+    "componentType": "Demo",
+    "developer": "wawo00",
+    "Android": true,
+    "iOS": true,
+    "Ohos": true,
+    "Js": true,
+    "sDynamic": false
+  },
+  {
+    "githubUrl": "https://github.com/Yang1107-wzy/KuiklyLoadingKit",
+    "examples": [
+      "https://github.com/Yang1107-wzy/KuiklyLoadingKit/tree/main/artifacts"
+    ],
+    "componentName": "KuiklyLoadingKit",
+    "componentDescription": "基于 KuiklyUI 的跨平台 Loading 组件，支持全屏/局部加载、超时关闭、命令式 Controller 与声明式 DSL，提供 Android / iOS 示例与自动化测试。",
+    "componentType": "KuiklyView",
+    "developer": "Yang1107-wzy",
+    "Android": true,
+    "iOS": true,
+    "sDynamic": false
+  },
+  {
+    "githubUrl": "https://github.com/Kuikly-contrib/KuiklyLibGallery",
+    "examples": [
+      "https://github.com/Kuikly-contrib/KuiklyLibGallery"
+    ],
+    "componentName": "KuiklyLibGallery",
+    "componentDescription": "KuiklyUI 第三方组件示例集合，涵盖序列化、网络、状态管理、动画、存储等常用库的可交互演示与 API 说明，支持 Android / iOS / 鸿蒙。",
+    "componentType": "Demo",
+    "developer": "Kuikly-contrib",
+    "Android": true,
+    "iOS": true,
+    "Ohos": true,
+    "sDynamic": false
+  },
+  {
+    "githubUrl": "https://github.com/botiverse/mermaid-native",
+    "examples": [
+      "https://botiverse.github.io/mermaid-native/playground",
+      "https://botiverse.github.io/mermaid-native/"
+    ],
+    "componentName": "mermaid-native",
+    "componentDescription": "Kotlin Multiplatform Mermaid 兼容图表引擎，无需 WebView/JS 运行时；提供解析、布局、SVG 导出与 Kuikly Canvas 渲染（mermaid-kuikly）。",
+    "componentType": "KuiklyView",
+    "developer": "botiverse",
+    "Android": true,
+    "iOS": true,
+    "Ohos": true,
+    "sDynamic": false
+  },
+  {
+    "githubUrl": "https://github.com/SoFarNoBug/KuiklyParticleEngine",
+    "examples": [
+      "https://github.com/SoFarNoBug/KuiklyParticleEngine"
+    ],
+    "componentName": "KuiklyCanvasEngine",
+    "componentDescription": "基于 Kuikly Compose Canvas 的跨端粒子特效引擎，一行 Composable 接入，含 20+ 预设特效与对象池优化，支持 Android / iOS / H5 / 鸿蒙。",
+    "componentType": "KuiklyView",
+    "developer": "SoFarNoBug",
+    "Android": true,
+    "iOS": true,
+    "Ohos": true,
+    "Js": true,
+    "sDynamic": false
+  },
+  {
+    "githubUrl": "https://github.com/Lfan-ke/KuiklyChartView",
+    "examples": [
+      "https://github.com/Lfan-ke/KuiklyChartView"
+    ],
+    "componentName": "KuiklyChartView",
+    "componentDescription": "基于 Kuikly DSL + Canvas 的跨端图表组件库，支持折线/柱状/饼图/雷达/K 线等 22 种图表类型与多主题，适配 Android / iOS / 鸿蒙。",
+    "componentType": "KuiklyView",
+    "developer": "Lfan-ke",
+    "Android": true,
+    "iOS": true,
+    "Ohos": true,
+    "sDynamic": false
+  },
+  {
+    "githubUrl": "https://github.com/HongMing-Huang/KuiklyCalendar",
+    "examples": [
+      "https://github.com/HongMing-Huang/KuiklyCalendar"
+    ],
+    "componentName": "KuiklyCalendar",
+    "componentDescription": "基于 KuiklyUI 的跨端日历组件，支持月/周/年视图与单选/多选/范围选择、多语言与事件标记，对应官方 Issue #1476。",
+    "componentType": "KuiklyView",
+    "developer": "HongMing-Huang",
+    "Android": true,
+    "iOS": true,
+    "sDynamic": false
+  },
+  {
+    "githubUrl": "https://github.com/gycrosskit/wechat",
+    "examples": [
+      "https://github.com/gycrosskit/wechat/blob/main/docs/%E6%8E%A5%E5%85%A5%E6%8C%87%E5%8D%97.md"
+    ],
+    "componentName": "gycrosskit-wechat",
+    "componentDescription": "微信 OAuth / 分享 / 商家转账的 KMP 与 Kuikly Native Module 封装，提供 Android / iOS / 鸿蒙接线与 Maven 发布。",
+    "componentType": "KuiklyModule",
+    "developer": "gycrosskit",
+    "Android": true,
+    "iOS": true,
+    "Ohos": true,
+    "sDynamic": false
+  },
+  {
+    "githubUrl": "https://github.com/gycrosskit/jverification",
+    "examples": [
+      "https://github.com/gycrosskit/jverification/blob/main/docs/%E6%8E%A5%E5%85%A5%E6%8C%87%E5%8D%97.md"
+    ],
+    "componentName": "gycrosskit-jverification",
+    "componentDescription": "极光一键认证的 KMP / Kuikly Module 封装，覆盖初始化、预取号与 Token 授权，支持 Android / iOS / 鸿蒙。",
+    "componentType": "KuiklyModule",
+    "developer": "gycrosskit",
+    "Android": true,
+    "iOS": true,
+    "Ohos": true,
+    "sDynamic": false
+  },
+  {
+    "githubUrl": "https://github.com/nikazhao/kuikly-page-generator",
+    "examples": [
+      "https://github.com/nikazhao/kuikly-page-generator"
+    ],
+    "componentName": "kuikly-page-generator",
+    "componentDescription": "基于 LangGraph 的 AI Kuikly 页面生成器：自然语言需求经多节点流水线生成可编译的 Kuikly Kotlin 页面代码。",
+    "componentType": "AITools",
+    "developer": "nikazhao",
+    "sDynamic": false
+  },
+  {
+    "githubUrl": "https://github.com/gycrosskit/live-sdk",
+    "examples": [
+      "https://github.com/gycrosskit/live-sdk"
+    ],
+    "componentName": "gycrosskit-live-sdk",
+    "componentDescription": "基于腾讯 AtomicX 的 Android / iOS 直播观看组件，提供列表静音预览、完整观看、原生视频画面与互动命令，支持 CMP 与 Kuikly Compose（LiveVideo）接入。",
+    "componentType": "KuiklyView",
+    "developer": "gycrosskit",
+    "Android": true,
+    "iOS": true,
+    "sDynamic": false
+  },
+  {
+    "githubUrl": "https://github.com/gycrosskit/media",
+    "examples": [
+      "https://github.com/gycrosskit/media"
+    ],
+    "componentName": "gycrosskit-media",
+    "componentDescription": "跨平台图片选择、拍照、压缩与相册保存组件，提供 KMP core 与 Kuikly Module，支持 Android / iOS / 鸿蒙。",
+    "componentType": "KuiklyModule",
+    "developer": "gycrosskit",
+    "Android": true,
+    "iOS": true,
+    "Ohos": true,
+    "sDynamic": false
+  },
+  {
+    "githubUrl": "https://github.com/gycrosskit/system-actions",
+    "examples": [
+      "https://github.com/gycrosskit/system-actions"
+    ],
+    "componentName": "gycrosskit-system-actions",
+    "componentDescription": "系统动作与窗口策略组件：拨号、外链、应用/定位/商店设置跳转，以及剪贴板、文件分享、常亮等，提供 Kuikly Module，支持 Android / iOS / 鸿蒙。",
+    "componentType": "KuiklyModule",
+    "developer": "gycrosskit",
+    "Android": true,
+    "iOS": true,
+    "Ohos": true,
+    "sDynamic": false
+  },
+  {
+    "githubUrl": "https://github.com/gycrosskit/sound",
+    "examples": [
+      "https://github.com/gycrosskit/sound"
+    ],
+    "componentName": "gycrosskit-sound",
+    "componentDescription": "短音效预加载与本地资源回退组件，支持 HTTPS 预缓冲、从头重播与生命周期释放，提供 Kuikly Module，覆盖 Android / iOS / 鸿蒙。",
+    "componentType": "KuiklyModule",
+    "developer": "gycrosskit",
+    "Android": true,
+    "iOS": true,
+    "Ohos": true,
+    "sDynamic": false
+  },
+  {
+    "githubUrl": "https://github.com/gycrosskit/scanner",
+    "examples": [
+      "https://github.com/gycrosskit/scanner"
+    ],
+    "componentName": "gycrosskit-scanner",
+    "componentDescription": "二维码图片解码与原生扫码组件，提供嵌入式预览与鸿蒙系统扫码页，含 Kuikly ScannerPreviewHost，支持 Android / iOS / 鸿蒙。",
+    "componentType": "KuiklyModule",
+    "developer": "gycrosskit",
+    "Android": true,
+    "iOS": true,
+    "Ohos": true,
+    "sDynamic": false
+  },
+  {
+    "githubUrl": "https://github.com/gycrosskit/permission",
+    "examples": [
+      "https://github.com/gycrosskit/permission"
+    ],
+    "componentName": "gycrosskit-permission",
+    "componentDescription": "相机、麦克风、前台定位等权限状态查询与申请组件，提供 KMP core 与 Kuikly Module，支持 Android / iOS / 鸿蒙。",
+    "componentType": "KuiklyModule",
+    "developer": "gycrosskit",
+    "Android": true,
+    "iOS": true,
+    "Ohos": true,
+    "sDynamic": false
+  },
+  {
+    "githubUrl": "https://github.com/gycrosskit/location",
+    "examples": [
+      "https://github.com/gycrosskit/location"
+    ],
+    "componentName": "gycrosskit-location",
+    "componentDescription": "前台单次定位组件，支持超时、缓存时效与精度过滤，提供 Kuikly LocationModule，覆盖 Android / iOS / 鸿蒙。",
+    "componentType": "KuiklyModule",
+    "developer": "gycrosskit",
+    "Android": true,
+    "iOS": true,
+    "Ohos": true,
+    "sDynamic": false
+  },
+  {
+    "githubUrl": "https://github.com/gycrosskit/debug-tools",
+    "examples": [
+      "https://github.com/gycrosskit/debug-tools"
+    ],
+    "componentName": "gycrosskit-debug-tools",
+    "componentDescription": "跨端 Bug 上报调试组件：草稿、提交状态、摇一摇触发、证据格式化与禅道 REST 协议，提供 Kuikly 桥接，支持 Android / iOS / 鸿蒙。",
+    "componentType": "Tools",
+    "developer": "gycrosskit",
+    "Android": true,
+    "iOS": true,
+    "Ohos": true,
+    "sDynamic": false
+  },
+  {
+    "githubUrl": "https://github.com/gycrosskit/compose-webview",
+    "examples": [
+      "https://github.com/gycrosskit/compose-webview"
+    ],
+    "componentName": "gycrosskit-compose-webview",
+    "componentDescription": "封装 Android WebView / iOS WKWebView / 鸿蒙 ArkWeb 的跨端 WebView 组件，提供导航、脚本、JSBridge 与 Kuikly Compose（AppWebView）接入。",
+    "componentType": "KuiklyView",
+    "developer": "gycrosskit",
+    "Android": true,
+    "iOS": true,
+    "Ohos": true,
+    "sDynamic": false
   }
 ]
