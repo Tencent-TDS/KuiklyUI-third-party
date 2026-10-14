@@ -1578,5 +1578,101 @@
     "Ohos": true,
     "Js": true,
     "sDynamic": false
+  },
+  {
+    "githubUrl": "https://github.com/Kuikly-contrib/KuiklyRecorder",
+    "examples": [
+      "https://github.com/Kuikly-contrib/KuiklyRecorder"
+    ],
+    "componentName": "KuiklyRecorder",
+    "componentDescription": "适配 Kuikly 框架的跨平台录音组件，支持 start/pause/resume/stop、实时音量与时长回调，以及 WAV/AAC/M4A 等格式，覆盖 Android / iOS / 鸿蒙。",
+    "componentType": "KuiklyModule",
+    "developer": "KuiklyBase",
+    "Android": true,
+    "iOS": true,
+    "Ohos": true,
+    "sDynamic": false
+  },
+  {
+    "githubUrl": "https://github.com/Kuikly-contrib/KuiklyLottieView",
+    "examples": [
+      "https://github.com/Kuikly-contrib/KuiklyLottieView"
+    ],
+    "componentName": "KuiklyLottieView",
+    "componentDescription": "基于 Kuikly 扩展原生 View 对 Airbnb Lottie 的跨端封装（kLottieView），支持循环、自动播放与进度控制，覆盖 Android / iOS / 鸿蒙。",
+    "componentType": "KuiklyView",
+    "developer": "KuiklyBase",
+    "Android": true,
+    "iOS": true,
+    "Ohos": true,
+    "sDynamic": false
+  },
+  {
+    "githubUrl": "https://github.com/gycrosskit/toast",
+    "examples": [
+      "https://github.com/gycrosskit/toast"
+    ],
+    "componentName": "gycrosskit-toast",
+    "componentDescription": "跨端短消息 Toast / Overlay 组件，提供 CMP 与 Kuikly Compose MessageHost，以及 legacy ToastModule，支持 Android / iOS / 鸿蒙。",
+    "componentType": "KuiklyView",
+    "developer": "gycrosskit",
+    "Android": true,
+    "iOS": true,
+    "Ohos": true,
+    "sDynamic": false
+  },
+  {
+    "githubUrl": "https://github.com/qingfeng19491001/KuiklyChart",
+    "examples": [
+      "https://github.com/qingfeng19491001/KuiklyChart"
+    ],
+    "componentName": "KuiklyChart",
+    "componentDescription": "基于 KuiklyUI 的跨端图表组件库，提供折线、面积等图表能力，已发布 Maven 坐标，支持 Android / iOS / 鸿蒙。",
+    "componentType": "KuiklyView",
+    "developer": "qingfeng19491001",
+    "Android": true,
+    "iOS": true,
+    "Ohos": true,
+    "sDynamic": false
+  },
+  {
+    "githubUrl": "https://github.com/yukiykchen/KuiklyComponentTemplete",
+    "examples": [
+      "https://github.com/yukiykchen/KuiklyComponentTemplete"
+    ],
+    "componentName": "KuiklyComponentTemplete",
+    "componentDescription": "Kuikly KMP 组件库开发模板工程，内置 Android / iOS / 鸿蒙 / H5 四端宿主，可直接用于组件开发与 Demo 测试。",
+    "componentType": "Tools",
+    "developer": "yukiykchen",
+    "Android": true,
+    "iOS": true,
+    "Ohos": true,
+    "Js": true,
+    "sDynamic": false
+  },
+  {
+    "githubUrl": "https://github.com/Tencent-TDS/KuiklyUI-A2UI",
+    "examples": [
+      "https://github.com/Tencent-TDS/KuiklyUI-A2UI"
+    ],
+    "componentName": "KuiklyUI-A2UI",
+    "componentDescription": "Kuikly A2UI：基于 Kuikly 渲染能力，为 A2UI 提供原生渲染体验的官方集成项目。",
+    "componentType": "Tools",
+    "developer": "Tencent-TDS",
+    "sDynamic": false
+  },
+  {
+    "githubUrl": "https://github.com/SoFarNoBug/KuiklyEcho",
+    "examples": [
+      "https://github.com/SoFarNoBug/KuiklyEcho"
+    ],
+    "componentName": "KuiklyEcho",
+    "componentDescription": "跨端手机短音效播放 Kuikly Module，与长音频 KuiklyAudio 解耦，支持预加载、并发播放与低延迟，覆盖 Android / iOS / 鸿蒙，已发布 Maven Central。",
+    "componentType": "KuiklyModule",
+    "developer": "SoFarNoBug",
+    "Android": true,
+    "iOS": true,
+    "Ohos": true,
+    "sDynamic": false
   }
 ]
