@@ -1,7 +1,7 @@
-[English](./README.md) | 简体中文 | [官网](https://framework.tds.qq.com/)
+[English](./README.md) | 简体中文 | [官网](https://kuikly.tds.qq.com/)
 
 # ThirdParty
-KuiklyUI-third-party 仓库是收录所有与 KuiklyUI 相关的技术分享和 兼容的库的目录
+KuiklyUI-third-party 仓库是收录所有与 KuiklyUI 兼容的第三方库的目录
 
 ## KuiklyUI 组件工具库收集
 ### 如何更新一个新库
@@ -77,31 +77,25 @@ KuiklyUI-third-party 仓库是收录所有与 KuiklyUI 相关的技术分享和 
   - 不依赖浏览器平台接口
   - 未依赖协程或运行时逻辑不涉及多线程
 
-## KuiklyUI 技术分享收集
-### 如何增加/更新一个分享
-- 在文件中查找该库的入口条目：[KuiklyUI-TechSharing.json](https://github.com/Tencent-TDS/ThirdParty/blob/main/KuiklyUI-TechSharing.json)
-- 使用新数据更新该条目描述信息
-- 提交 PR。
+## 技术分享与社区共建
+本仓库不再通过 JSON 文件收录技术分享文章。
 
-### 分享的描述模板
-请遵循如下格式、字段顺序和缩进规范，跳过所有不支持平台的字段。
-```json
-{
-  "articleUrl": "<Article URL>",
-  "articleTitle": "<Your Article Title>",
-  "appName": "<Your App Name>",
-  "author": "<Developer of This Component>",
-  "date": "<Publication Time of This Article>"
-}
-```
-### 模板字段描述
-- `articleUrl`
-  **(string)** - 技术分享文章链接。
-- `articleTitle`
-  **(string)** - 技术分享文章标题。
-- `appName`
-  **(string)** - （可选）所属业务名称。
-- `author`
-  **(string)** - （可选）技术分享作者，可以是GithubID。
-- `date`
-  **(string)** - 技术分享发表时间。
+- 如果你希望文章在 **Kuikly 官网** 或 **Kuikly 公众号** 发表，请添加 **Kuikly 小助手** 微信沟通（可扫下方「在线咨询」二维码）。
+- 如果你希望加入 **Kuikly 核心共建群**，也请添加 **Kuikly 小助手** 微信联系。
+
+## 欢迎关注交流
+欢迎扫码下方二维码关注最新动态或咨询交流。
+<p align="left">
+    <div style="display: inline-block; text-align: center; margin-right: 20px;">
+        <div>腾讯端服务微信公众号</div>
+        <img alt="TDS" src="img/tds_qrcode.jpeg" width="200" />
+    </div>
+    <div style="display: inline-block; text-align: center; margin-right: 20px;">
+        <div>TDS Framework 微信公众号</div>
+        <img alt="TDS Framework" src="img/tds_framework_qrcode.jpeg" width="200" />
+    </div>
+    <div style="display: inline-block; text-align: center;">
+        <div>在线咨询（Kuikly 小助手）</div>
+        <img alt="在线咨询" src="img/consult_qrcode.png" width="200" />
+    </div>
+</p>

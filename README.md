@@ -1,6 +1,6 @@
-English | [简体中文](./README-zh_CN.md) | [Homepage](https://framework.tds.qq.com/)
+English | [简体中文](./README-zh_CN.md) | [Homepage](https://kuikly.tds.qq.com/)
 # KuiklyUI-third-party
-The KuiklyUI-third-party repository is a directory of all technology sharing and compatible libraries related to KuiklyUI
+The KuiklyUI-third-party repository is a directory of third-party libraries compatible with KuiklyUI.
 
 ## KuiklyUI component and tool libraries collection
 ### How to Update an Existing Library
@@ -77,34 +77,25 @@ Please follow the format, field order, and indentation as shown below. Omit fiel
   - Does not rely on browser platform interfaces
   - Does not rely on coroutines, or the runtime logic does not involve multithreading
 
-## KuiklyUI technology sharing collection
-### How to add/update a share
-- Add it to the end of the [KuiklyUI-TechSharing.json](https://github.com/Tencent-TDS/ThirdParty/blob/main/KuiklyUI-TechSharing.json) file
-- Refer to the [Library Description Template](#share-description-template) to describe the article's relevant information
-- Submit a PR
+## Technology sharing and community
+This repository no longer collects technology sharing articles via a JSON file.
 
-### Share Description Template
-Please follow the format, field order, and indentation as shown below. 
-```json
-{
-  "articleUrl": "<Article URL>",
-  "articleTitle": "<Your Article Title>",
-  "appName": "<Your App Name>",
-  "author": "<Developer of This Component>",
-  "date": "<Publication Time of This Article>"
-}
-```
-### Template Field Descriptions
-- `articleUrl`
-  **(string)** - Technology sharing article link.
-- `articleTitle`
-  **(string)** - Title of the technology sharing article.
-- `appName`
-  **(string)** - (Optional) Business name.
-- `author`
-  **(string)** - (Optional) The author of the technology sharing, which can be Github ID.
-- `date`
-  **(string)** - Technology sharing publication time.
+- If you would like your article published on the **Kuikly website** or the **Kuikly WeChat official account**, please add the **Kuikly Assistant** on WeChat (scan the **Online Support** QR code below).
+- If you would like to join the **Kuikly core contributor group**, please also contact us by adding the **Kuikly Assistant** on WeChat.
 
-
-
+## Stay Connected
+Scan the QR codes below to follow our latest updates or contact us for inquiries.
+<p align="left">
+    <div style="display: inline-block; text-align: center; margin-right: 20px;">
+        <div>TDS WeChat Official Account</div>
+        <img alt="TDS" src="img/tds_qrcode.jpeg" width="200" />
+    </div>
+    <div style="display: inline-block; text-align: center; margin-right: 20px;">
+        <div>TDS Framework WeChat Official Account</div>
+        <img alt="TDS Framework WeChat Official Account" src="img/tds_framework_qrcode.jpeg" width="200" />
+    </div>
+    <div style="display: inline-block; text-align: center;">
+        <div>Online Support (Kuikly Assistant)</div>
+        <img alt="Online Consult" src="img/consult_qrcode.png" width="200" />
+    </div>
+</p>
