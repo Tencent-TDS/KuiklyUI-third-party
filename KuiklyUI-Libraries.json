@@ -1674,5 +1674,30 @@
     "iOS": true,
     "Ohos": true,
     "sDynamic": false
+  },
+  {
+    "githubUrl": "https://github.com/Tencent-TDS/React2Kuikly",
+    "examples": [
+      "https://github.com/Tencent-TDS/React2Kuikly",
+      "https://github.com/Tencent-TDS/React2Kuikly/tree/main/react2kuikly"
+    ],
+    "componentName": "React2Kuikly",
+    "componentDescription": "把 React / React Native 页面翻译成 Kuikly 代码的 AI Skill：主从分离架构，支持源码分析、按需规则加载、逐文件生成与编译闭环验证。",
+    "componentType": "AITools",
+    "developer": "Tencent-TDS",
+    "sDynamic": false
+  },
+  {
+    "githubUrl": "https://github.com/Tencent-TDS/Vue2Kuikly",
+    "examples": [
+      "https://github.com/Tencent-TDS/Vue2Kuikly",
+      "https://github.com/Tencent-TDS/Vue2Kuikly/tree/main/vue3tokuikly",
+      "https://github.com/Tencent-TDS/Vue2Kuikly/tree/main/vue2tokuikly"
+    ],
+    "componentName": "Vue2Kuikly",
+    "componentDescription": "把 Vue2 / Vue3 页面翻译成 Kuikly 代码的 AI Skill：支持 Composition API、业务 Skill 插拔、逐文件迁移与编译闭环验证。",
+    "componentType": "AITools",
+    "developer": "Tencent-TDS",
+    "sDynamic": false
   }
 ]
