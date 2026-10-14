@@ -1562,5 +1562,21 @@
     "iOS": true,
     "Ohos": true,
     "sDynamic": false
+  },
+  {
+    "githubUrl": "https://github.com/1250422131/SaiRen",
+    "examples": [
+      "https://github.com/1250422131/SaiRen",
+      "https://sai-ren.vercel.app"
+    ],
+    "componentName": "SaiRen",
+    "componentDescription": "塞壬：基于 Kuikly 的跨端股票行情与 AI 分析 Demo，支持行情浏览、搜索、详情、AI 对话与 K 线，覆盖 Android / iOS / H5 / 小程序 / 鸿蒙。",
+    "componentType": "Demo",
+    "developer": "1250422131",
+    "Android": true,
+    "iOS": true,
+    "Ohos": true,
+    "Js": true,
+    "sDynamic": false
   }
 ]
