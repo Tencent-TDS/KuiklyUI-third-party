@@ -1699,5 +1699,18 @@
     "componentType": "AITools",
     "developer": "Tencent-TDS",
     "sDynamic": false
+  },
+  {
+    "githubUrl": "https://github.com/songjiahuan110/CjscKuiklySkill",
+    "examples": [
+      "https://github.com/songjiahuan110/CjscKuiklySkill",
+      "https://github.com/songjiahuan110/CjscKuiklySkill/tree/main/skills/kuikly-bridge-adaptation",
+      "https://github.com/songjiahuan110/CjscKuiklySkill/tree/main/skills/kuikly-dsl-interaction-state"
+    ],
+    "componentName": "CjscKuiklySkill",
+    "componentDescription": "面向 Kuikly DSL / KMP 的社区 AI Skills：覆盖 Bridge 适配、交互状态排障与跨端验证，提供排查路径与验收方法。",
+    "componentType": "AITools",
+    "developer": "songjiahuan110",
+    "sDynamic": false
   }
 ]
