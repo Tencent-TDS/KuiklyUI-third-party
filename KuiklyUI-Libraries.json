@@ -1712,5 +1712,33 @@
     "componentType": "AITools",
     "developer": "songjiahuan110",
     "sDynamic": false
+  },
+  {
+    "githubUrl": "https://github.com/FooWrites/KuiklyOtpInput",
+    "examples": [
+      "https://github.com/FooWrites/KuiklyOtpInput"
+    ],
+    "componentName": "OtpInput",
+    "componentDescription": "Kuikly 验证码输入（自研 DSL）",
+    "componentType": "KuiklyView",
+    "developer": "FooWrites",
+    "Android": true,
+    "iOS": true,
+    "Js": true,
+    "sDynamic": true
+  },
+  {
+    "githubUrl": "https://github.com/FooWrites/KuiklyOtpInput",
+    "examples": [
+      "https://github.com/FooWrites/KuiklyOtpInput"
+    ],
+    "componentName": "OtpInputCompose",
+    "componentDescription": "Kuikly 验证码输入（Compose DSL）",
+    "componentType": "KuiklyView",
+    "developer": "FooWrites",
+    "Android": true,
+    "iOS": true,
+    "Js": true,
+    "sDynamic": true
   }
 ]
