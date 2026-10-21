@@ -1712,5 +1712,33 @@
     "componentType": "AITools",
     "developer": "songjiahuan110",
     "sDynamic": false
+  },
+  {
+    "githubUrl": "https://github.com/FooWrites/KuiklyStarRating",
+    "examples": [
+      "https://github.com/FooWrites/KuiklyStarRating"
+    ],
+    "componentName": "StarRating",
+    "componentDescription": "Kuikly 星级评分（自研 DSL）",
+    "componentType": "KuiklyView",
+    "developer": "FooWrites",
+    "Android": true,
+    "iOS": true,
+    "Js": true,
+    "sDynamic": true
+  },
+  {
+    "githubUrl": "https://github.com/FooWrites/KuiklyStarRating",
+    "examples": [
+      "https://github.com/FooWrites/KuiklyStarRating"
+    ],
+    "componentName": "StarRatingCompose",
+    "componentDescription": "Kuikly 星级评分（Compose DSL）",
+    "componentType": "KuiklyView",
+    "developer": "FooWrites",
+    "Android": true,
+    "iOS": true,
+    "Js": true,
+    "sDynamic": true
   }
 ]
