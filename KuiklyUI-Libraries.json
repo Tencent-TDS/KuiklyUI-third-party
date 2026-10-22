@@ -1726,19 +1726,5 @@
     "iOS": true,
     "Js": true,
     "sDynamic": true
-  },
-  {
-    "githubUrl": "https://github.com/FooWrites/KuiklySkeleton",
-    "examples": [
-      "https://github.com/FooWrites/KuiklySkeleton"
-    ],
-    "componentName": "SkeletonCompose",
-    "componentDescription": "Kuikly 骨架占位（Compose DSL），薄封装自研 DSL 占位块",
-    "componentType": "KuiklyView",
-    "developer": "FooWrites",
-    "Android": true,
-    "iOS": true,
-    "Js": true,
-    "sDynamic": true
   }
 ]
