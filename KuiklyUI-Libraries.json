@@ -1719,22 +1719,7 @@
       "https://github.com/FooWrites/KuiklySignaturePad"
     ],
     "componentName": "SignaturePad",
-    "componentDescription": "Kuikly 手写签名板（自研 DSL）",
-    "componentType": "KuiklyView",
-    "developer": "FooWrites",
-    "Android": true,
-    "iOS": true,
-    "Ohos": true,
-    "Js": true,
-    "sDynamic": true
-  },
-  {
-    "githubUrl": "https://github.com/FooWrites/KuiklySignaturePad",
-    "examples": [
-      "https://github.com/FooWrites/KuiklySignaturePad"
-    ],
-    "componentName": "SignaturePadCompose",
-    "componentDescription": "Kuikly 手写签名板（Compose DSL）",
+    "componentDescription": "Kuikly 跨端手写签名板，支持导出 PNG，提供 Kuikly DSL（signaturepad）和 Compose DSL（signaturepad-compose）两个模块",
     "componentType": "KuiklyView",
     "developer": "FooWrites",
     "Android": true,
