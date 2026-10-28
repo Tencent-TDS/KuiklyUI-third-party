@@ -1727,5 +1727,20 @@
     "Ohos": true,
     "Js": true,
     "sDynamic": true
+  },
+  {
+    "githubUrl": "https://github.com/FooWrites/KuiklyOtpInput",
+    "examples": [
+      "https://github.com/FooWrites/KuiklyOtpInput"
+    ],
+    "componentName": "OtpInput",
+    "componentDescription": "Kuikly 跨端验证码输入框，支持粘贴提取验证码和系统短信验证码填充，提供 Kuikly DSL（otpinput）和 Compose DSL（otpinput-compose）两个模块",
+    "componentType": "KuiklyView",
+    "developer": "FooWrites",
+    "Android": true,
+    "iOS": true,
+    "Ohos": true,
+    "Js": true,
+    "sDynamic": true
   }
 ]
