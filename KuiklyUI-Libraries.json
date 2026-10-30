@@ -1742,5 +1742,19 @@
     "Ohos": true,
     "Js": true,
     "sDynamic": true
+  },
+  {
+    "githubUrl": "https://github.com/zhanghaifei1997/kuikly-app-icon",
+    "examples": [
+      "https://github.com/zhanghaifei1997/kuikly-app-icon/tree/main/demo"
+    ],
+    "componentName": "kuikly-app-icon",
+    "componentDescription": "Kuikly 动态更换 App 图标组件：Kotlin 侧一套统一 API（setIcon / getCurrentIcon / getSupportedIcons / isSupported）切换 Android（activity-alias）/ iOS（setAlternateIconName）/ 鸿蒙 API 26+（bundleManager.setAlternateIcon）三端桌面图标，图标由宿主预置声明，统一 JSON 回调契约与错误码，支持 iOS 静默切换。产物已发布 Maven Central / CocoaPods / OHPM。",
+    "componentType": "KuiklyModule",
+    "developer": "zhanghaifei1997",
+    "Android": true,
+    "iOS": true,
+    "Ohos": true,
+    "sDynamic": false
   }
 ]
