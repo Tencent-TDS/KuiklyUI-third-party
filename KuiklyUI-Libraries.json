@@ -1077,6 +1077,8 @@
     "githubUrl": "https://github.com/zrlmeng/kuikly-platform-design",
     "examples": [
       "https://ui-site.zrlmeng.com",
+      "https://install-site.zrlmeng.com",
+      "https://docs.zrlmeng.com/community/",
       "https://ui-demo-h5.zrlmeng.com/?page_name=design_system_gallery&product_line=ui",
       "https://apk-dl.zrlmeng.com/ui.apk",
       "https://github.com/zrlmeng/kuikly-platform-design/blob/main/HOST-MINIMAL.md",
@@ -1084,7 +1086,7 @@
       "https://central.sonatype.com/artifact/com.sxztdhkjyxgs/platform-design"
     ],
     "componentName": "platform-design",
-    "componentDescription": "ShouZhuan UI / platform-design: production Kuikly Compose business design system (themes, forms, feedback, navigation, Stitch neumorphism, office/play scene styles) plus plugin facades. Live docs, H5 Gallery, and Android Gallery APK. Maven binary + placeholder sources only (no product source tree). Complements KuiklyUI primitives; not an engine replacement.",
+    "componentDescription": "守赚 UI（platform-design）· Maven 最新 1.0.24。面向 Kuikly Compose 的企业级业务设计系统：主题换肤、表单/反馈/导航、新拟态、办公与娱乐双场景及插件能力；补齐官方原语之上的企业业务界面层（非引擎替代）。组件库官网：https://ui-site.zrlmeng.com · 社区版官网：https://install-site.zrlmeng.com · 帮助手册：https://docs.zrlmeng.com/community/ · H5 展厅 / Android Gallery / Maven 见仓库 examples 与 README。",
     "componentType": "KuiklyView",
     "developer": "zrlmeng",
     "Android": true,
