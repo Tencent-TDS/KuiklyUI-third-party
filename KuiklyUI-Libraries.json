@@ -1742,5 +1742,22 @@
     "Ohos": true,
     "Js": true,
     "sDynamic": true
+  },
+  {
+    "githubUrl": "https://github.com/Richard102257/kuikly-whatsnew-kit",
+    "examples": [
+      "https://github.com/Richard102257/kuikly-whatsnew-kit/tree/main/androidApp",
+      "https://github.com/Richard102257/kuikly-whatsnew-kit/tree/main/iosApp",
+      "https://github.com/Richard102257/kuikly-whatsnew-kit/tree/main/h5App"
+    ],
+    "componentName": "WhatsNew",
+    "componentDescription": "Kuikly 跨端「新功能引导」组件（SvenTiigi/WhatsNewKit 移植），支持自动/手动展示、版本追踪与 patch 回退、自定义布局、主次按钮，提供 Kuikly DSL 与 Compose 页面两种用法",
+    "componentType": "KuiklyView",
+    "developer": "Richard102257",
+    "Android": true,
+    "iOS": true,
+    "Ohos": false,
+    "Js": true,
+    "sDynamic": false
   }
 ]
