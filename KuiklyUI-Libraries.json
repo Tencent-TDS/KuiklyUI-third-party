@@ -1756,5 +1756,20 @@
     "iOS": true,
     "Ohos": true,
     "sDynamic": false
+  },
+  {
+    "githubUrl": "https://github.com/zhanghaifei1997/kuikly-code",
+    "examples": [
+      "https://github.com/zhanghaifei1997/kuikly-code/tree/main/demo"
+    ],
+    "componentName": "kuikly-code",
+    "componentDescription": "Kuikly 经典 DSL 二维码/条形码渲染组件：纯 Kotlin common Canvas 绘制（QR 引擎为 qrcode-kotlin 移植，编码表均对照 zxing 逐条校验），零原生依赖、无需注册模块。QR 支持模块形状（方/圆点/圆角/菱形）、渐变前景、中心 logo、掩码自动最优、版本下限、动态数据更新过渡动画（响应式检测，交叉淡化/上下推移）与四态展示（成功/加载中/空态/异常，各态可注入自定义视图）；条形码支持 Code 128-B/C 自动混合（数字段密度翻倍）与 EAN-13（零售商品码，三段式可读文本），内置标准静区与 onError 事件，Android/iOS/鸿蒙/Web 一套代码。产物已发布 Maven Central（0.1.0~0.4.0）。",
+    "componentType": "KuiklyView",
+    "developer": "zhanghaifei1997",
+    "Android": true,
+    "iOS": true,
+    "Ohos": true,
+    "Js": true,
+    "sDynamic": false
   }
 ]
