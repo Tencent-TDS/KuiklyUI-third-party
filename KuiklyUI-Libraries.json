@@ -1077,6 +1077,8 @@
     "githubUrl": "https://github.com/zrlmeng/kuikly-platform-design",
     "examples": [
       "https://ui-site.zrlmeng.com",
+      "https://install-site.zrlmeng.com",
+      "https://docs.zrlmeng.com/community/",
       "https://ui-demo-h5.zrlmeng.com/?page_name=design_system_gallery&product_line=ui",
       "https://apk-dl.zrlmeng.com/ui.apk",
       "https://github.com/zrlmeng/kuikly-platform-design/blob/main/HOST-MINIMAL.md",
@@ -1084,7 +1086,7 @@
       "https://central.sonatype.com/artifact/com.sxztdhkjyxgs/platform-design"
     ],
     "componentName": "platform-design",
-    "componentDescription": "ShouZhuan UI / platform-design: production Kuikly Compose business design system (themes, forms, feedback, navigation, Stitch neumorphism, office/play scene styles) plus plugin facades. Live docs, H5 Gallery, and Android Gallery APK. Maven binary + placeholder sources only (no product source tree). Complements KuiklyUI primitives; not an engine replacement.",
+    "componentDescription": "守赚 UI（platform-design）· Maven 最新 1.0.24。面向 Kuikly Compose 的企业级业务设计系统：主题换肤、表单/反馈/导航、新拟态、办公与娱乐双场景及插件能力；补齐官方原语之上的企业业务界面层（非引擎替代）。组件库官网：https://ui-site.zrlmeng.com · 社区版官网：https://install-site.zrlmeng.com · 帮助手册：https://docs.zrlmeng.com/community/ · H5 展厅 / Android Gallery / Maven 见仓库 examples 与 README。",
     "componentType": "KuiklyView",
     "developer": "zrlmeng",
     "Android": true,
@@ -1770,6 +1772,35 @@
     "iOS": true,
     "Ohos": true,
     "Js": true,
+    "sDynamic": false
+  },
+  {
+    "githubUrl": "https://github.com/Richard102257/kuikly-whatsnew-kit",
+    "examples": [
+      "https://github.com/Richard102257/kuikly-whatsnew-kit/tree/main/androidApp",
+      "https://github.com/Richard102257/kuikly-whatsnew-kit/tree/main/iosApp",
+      "https://github.com/Richard102257/kuikly-whatsnew-kit/tree/main/h5App"
+    ],
+    "componentName": "WhatsNew",
+    "componentDescription": "Kuikly 跨端「新功能引导」组件（SvenTiigi/WhatsNewKit 移植），支持自动/手动展示、版本追踪与 patch 回退、自定义布局、主次按钮，提供 Kuikly DSL 与 Compose 页面两种用法",
+    "componentType": "KuiklyView",
+    "developer": "Richard102257",
+    "Android": true,
+    "iOS": true,
+    "Ohos": false,
+    "Js": true,
+    "sDynamic": false
+  },
+  {
+    "githubUrl": "https://github.com/zhanghaifei1997/kuikly-kpm",
+    "examples": [],
+    "componentName": "kuikly-kpm",
+    "componentDescription": "Kuikly 包管理器 CLI：npx kuikly-kpm add <组件名> 一条命令将第三方组件已发布产物坐标（Maven Central / CocoaPods / OHPM）自动注入 Android、iOS、鸿蒙三端构建文件，支持平台裁剪、lock 锁定、注册代码指引与 doctor 完整性校验；组件侧仅需在仓库根声明 kuikly.component.json 元数据。",
+    "componentType": "Tools",
+    "developer": "zhanghaifei1997",
+    "Android": true,
+    "iOS": true,
+    "Ohos": true,
     "sDynamic": false
   }
 ]
