@@ -1821,5 +1821,23 @@
     "iOS": true,
     "Ohos": true,
     "sDynamic": true
+  },
+  {
+    "githubUrl": "https://github.com/SoFarNoBug/KuiklyPerspectiveCrop",
+    "examples": [
+      "https://github.com/SoFarNoBug/KuiklyPerspectiveCrop/tree/main/androidApp",
+      "https://github.com/SoFarNoBug/KuiklyPerspectiveCrop/tree/main/iosApp",
+      "https://github.com/SoFarNoBug/KuiklyPerspectiveCrop/tree/main/ohosApp",
+      "https://github.com/SoFarNoBug/KuiklyPerspectiveCrop/tree/main/h5App"
+    ],
+    "componentName": "KuiklyPerspectiveCrop",
+    "componentDescription": "四点框住斜拍照，一裁校正。Kuikly Compose DSL 多端库，Android / iOS / 鸿蒙 / H5 同一套 API；不做 OCR / 自动扫边，外部检测点可注入",
+    "componentType": "KMP",
+    "developer": "SoFarNoBug",
+    "Android": true,
+    "iOS": true,
+    "Ohos": true,
+    "Js": true,
+    "sDynamic": false
   }
 ]
